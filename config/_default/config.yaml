@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
-baseurl: '' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+title: IronHacks
+baseurl: ''
+copyright: 'Copyright © Research Center for Open Digital Innovation {year}' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
@@ -15,6 +15,7 @@ defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
+enableInlineShortcodes: true
 
 ############################
 ## MODULES
@@ -29,7 +30,7 @@ module:
 ## ADVANCED
 ############################
 
-enableGitInfo: false
+enableGitInfo: true
 summaryLength: 30
 paginate: 10
 enableEmoji: true
@@ -40,7 +41,10 @@ permalinks:
   event: '/talk/:slug/'
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
+  hack: '/hacks/:slug/'
+  post: '/posts/:slug/'
   publication_types: '/publication-type/:slug/'
+
 disableAliases: true
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]

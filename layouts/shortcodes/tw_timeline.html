@@ -1,0 +1,14 @@
+{{ if (.Get "source") }}
+<style>
+.twitter-timeline-container {
+  max-height: 500px;
+  overflow: auto;
+  zoom: 1.5;
+  margin-bottom: 1em;
+}
+</style>
+<div class="twitter-timeline-container">
+  <a class="twitter-timeline" href="{{.Get "source"}}" data-dnt="true" data-theme="light" data-chrome="noheader, nofooter"></a>
+</div>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{ end }}

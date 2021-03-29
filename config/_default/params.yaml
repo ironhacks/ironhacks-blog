@@ -6,9 +6,9 @@
 # Appearance
 
 theme: minimal
-day_night: true
+day_night: false
 font: ''
-font_size: L
+font_size: M
 
 # SEO
 
@@ -18,42 +18,41 @@ org_name: ''
 description: ''
 twitter: ''
 
-# Contact (edit or remove options as required)
-
-email: test@example.org
-phone: 888 888 88 88
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+email: opendigital@purdue.edu
+# phone: 888 888 88 88
+# address:
+#   street: 450 Serra Mall
+#   city: Stanford
+#   region: CA
+#   postcode: '94305'
+#   country: United States
+#   country_code: US
+# coordinates:
+#   latitude: '37.4275'
+#   longitude: '-122.1697'
+# directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+# office_hours:
+#   - 'Monday 10:00 to 13:00'
+#   - 'Wednesday 09:00 to 10:00'
+# appointment_url: 'https://calendly.com'
+appointment_url: ''
 contact_links:
+  - icon: comments
+    icon_pack: fab
+    name: Send us a message
+    link: 'mailto:c562462b.groups.purdue.edu@amer.teams.ms'
   - icon: twitter
     icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
+    name: '@Purdue_RCODI'
+    link: 'https://twitter.com/Purdue_RCODI'
+  - icon: github
     icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
+    name: GitHub
+    link: 'https://github.com/ironhacks'
+  - icon: link
     icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    name: IronHacks.com
+    link: 'https://ironhacks.com'
 
 # Site header
 
@@ -77,24 +76,30 @@ address_format: en-us
 highlight: true
 highlight_languages:
   - r
-math: false
-diagram: false
+  - python
+  - py
+  - js
+  - sh
+math: true
+diagram: true
 privacy_pack: false
 edit_page:
-  repo_url: ''
-  content_dir: ''
-  repo_branch: main
+  repo_url: 'https://github.com/ironhacks/ironhacks-blog'
+  content_dir: 'content'
+  repo_branch: master
   editable:
     page: false
-    post: false
+    post: true
     book: false
+    hacks: true
 show_related:
-  book: true
+  book: false
   page: false
   post: true
-  project: true
-  publication: true
-  event: true
+  project: false
+  publication: false
+  event: false
+  hack: false
 reading_time: true
 section_pager: false
 docs_section_pager: true
@@ -102,7 +107,7 @@ sharing: true
 copyright_license:
   enable: false
   allow_derivatives: false
-  share_alike: true
+  share_alike: false
   allow_commercial: false
   notice: 'This work is licensed under {license}'
 abstract_length: 135
@@ -123,11 +128,12 @@ breadcrumb:
 comments:
   provider: ''
   commentable:
-    post: true
-    book: true
-    project: true
-    publication: true
-    event: true
+    post: false
+    book: false
+    project: false
+    publication: false
+    event: false
+    hack: false
   disqus:
     shortname: ''
     show_count: true
@@ -156,3 +162,9 @@ cms:
 icon:
   pack:
     ai: true
+
+
+# OVERRIDE
+i_am_a_sponsor: true
+# power_ups:
+#   hide_published_with: true
