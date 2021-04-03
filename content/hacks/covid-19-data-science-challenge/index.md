@@ -1,29 +1,39 @@
 ---
-title: "Covid19 Data Science Challenge"
-summary: ""
-date: "2020-02-09T18:24:12"
-date_gmt: "2020-02-09T18:24:12"
-modified: "2020-02-18T17:24:41"
-modified_gmt: "2020-02-18T17:24:41"
-authors: []
-tags: []
-categories:
-  - experiments
-  - open innovation
+title: COVID-19 Fall 2020 Data Science Challenge
+subtitle: null
 
-#creator: jealdana
-#external_link: ""
+# Summary for listings and search engines
+summary: The COVID-19 Data Science Challenge by IronHacks
+
+# Date published
+date: "2020-12-13T00:00:00Z"
+
+# Date updated
+lastmod: "2020-12-13T00:00:00Z"
+
+# Is this an unpublished draft?
+draft: false
+
+# Show this page in the Featured widget?
+featured: false
+
+# Featured image
+# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
   caption: ""
   focal_point: ""
+  placement: 2
   preview_only: false
 
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+authors:
+- admin
 
-slides: ""
+tags:
+- Protect Purdue
+- COVID-19
+
+categories:
+- Hacks
 ---
 
 # IronHacks: COVID-19 Data Science Challenges
