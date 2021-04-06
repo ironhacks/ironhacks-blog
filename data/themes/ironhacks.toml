@@ -1,0 +1,28 @@
+# Theme metadata
+name = "ironhacks"
+
+# Is theme light or dark?
+light = true
+
+# yellow #e7f447
+# grey #343a40
+# pink #dc27af
+#
+# primary = "#1565c0"
+# primary = "#dc27af"
+primary = "#343a40"
+
+# Menu
+# menu_primary = "#fff"
+menu_primary = "#e7f447"
+menu_text = "#34495e"
+menu_text_active = "#000"
+menu_title = "#2b2b2b"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
+
+[dark]
+  link = "#bbdefb"
+  link_hover = "#bbdefb"
