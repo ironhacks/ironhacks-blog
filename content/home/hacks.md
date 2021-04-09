@@ -36,7 +36,7 @@ design:
   #   4 = Citation (publication only)
   view: 2
   background:
-    color: '#333'
+    color: '#e7f447'
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
-    text_color_light: true
+    text_color_light: false
 ---
