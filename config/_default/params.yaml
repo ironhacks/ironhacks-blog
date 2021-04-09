@@ -19,7 +19,7 @@ org_name: ''
 description: ''
 twitter: ''
 
-email: opendigital@purdue.edu
+email: ''
 # phone: 888 888 88 88
 # address:
 #   street: 450 Serra Mall
@@ -90,9 +90,9 @@ edit_page:
   repo_branch: master
   editable:
     page: false
-    post: true
+    post: false
     book: false
-    hacks: true
+    hacks: false
 show_related:
   book: false
   page: false
