@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: IronHacks
+title: IronHacks Blog
 baseurl: ''
 copyright: 'Copyright © Research Center for Open Digital Innovation {year}' # Footer text, e.g. '© {year} Me'
 
