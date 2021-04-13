@@ -38,11 +38,11 @@ categories:
 
 ## Why the COVID-19 Data Science Challenges?
 
-COVID-19 is upending our health, our social communities, and our economy. The Research Center for Open Digital Innovation (RCODI) has set forth to launch an IronHacks series to help leaders in making the right decisions as we are moving through this pandemic. Leaders in our country who are responsible for protecting their citizens' welfare and quality of life face difficult questions, such as: When and where do citizens expose themselves and others the most to COVID-19 risk? Which regions and places (stores, restaurants, etc.) are predicted to be hotspots for social crowding increasing the risk of virus spread?
+COVID-19 is upending our health, our social communities, and our economy. Over the past year the Research Center for Open Digital Innovation (RCODI) launched an IronHacks series to help leaders in making the right decisions as we are moving through this pandemic. Leaders in our country who are responsible for protecting their citizens' welfare and quality of life face difficult questions, such as: When and where do citizens expose themselves and others the most to COVID-19 risk? Which regions and places (stores, restaurants, etc.) are predicted to be hotspots for social crowding increasing the risk of virus spread?
 
 Today, we have more, increasingly granular, and actual data available to answer those questions: Daily updated mobility and location data collected via our mobile phones, visitor counts at core places, regional spending data, unemployment claims, etc. However, it takes the collective effort of a crowd of IronHackers to turn this data into something useful and develop models that help us predict and explore the social and economic impact of COVID-19 at granular level.
 
-Watch the videos of two leaders in the State of Indiana to learn why they need YOU as soldiers of the COVID-19 pandemic behind the screen.
+Watch the videos of two leaders in the State of Indiana to learn why they still need YOU as soldiers of the COVID-19 pandemic behind the screen.
 
 {{< youtube 6LBzLqVIc-0 >}}
 
@@ -60,7 +60,9 @@ Our COVID-19 Data Science Challenges invite participants to build statistical mo
 
 - Fall 2020 COVID-19 Data Science Challenge: Protect Purdue. This challenge asks participants to monitor and predict weekly foot traffic at thousands of places of interests (e.g. restaurants, stores, churches) in the Greater West-Lafayette. It responds to a statement made by Purdue's Leadership team: that COVID-19 risk is not necessarily arising in campus buildings but, rather, emerging from off-campus social gatherings like in restaurants, shops, etc.
 
-Participants have access to BIG actual, granular and temporal data they typically do not have access to: Data about social distancing behavior, foot traffic, COVID-19 incidents, as well as executive orders. This data is also used by state governments in the US as well scientists who try to understand social movements during COVID-19 pandemic.
+- Spring 2021 COVID-19 Data Science Challenge: More details announced soon!
+
+In the 2021 Challenge, participants will have access to BIG actual, granular and temporal data they typically do not have access to: Data about social distancing behavior, foot traffic, COVID-19 incidents, as well as executive orders. This data is also used by state governments in the US as well scientists who try to understand social movements during COVID-19 pandemic.
 
 Equipped with this data, participants will work in the IronHacks workspace with JupyterLab and access to BigQuery to create novel and useful statistical models and visualizations using Python and R. Participants will submit Jupyter notebooks and their outputs (html and markdown files).
 
@@ -77,9 +79,9 @@ Equipped with this data, participants will work in the IronHacks workspace with 
 
 ## How will participants be evaluated?
 
-Each participant's notebook will be evaluated in several dimensions. Examples are:
+In past competitions, each participant's notebook was evaluated in several dimensions. Examples are:
 
-- The accuracy of your model'sprediction (e.g. mean squared error)
+- The accuracy of your model's prediction (e.g. mean squared error)
 - Your effort to explore a variety of solutions (data, models, etc.)
 - Quality and usefulness of the presentation and interpretation of your data/models in a final interactive report (including data visualization)
 - Quality of the software code
@@ -97,10 +99,11 @@ IronHacks is a global virtual open data hacking platform that allows users to pa
 
 ## What is the timeline?
 
-Each hack runs for about 3 to 4 weeks!
+Typically, each hack runs for about 3 to 4 weeks! But we are offering a new change for Spring 2021
 
 - COVID-19 Data Science Challenge Summer 2020: This challenge is complete. Check out the results here!
-- COVID-19 Data Science Challenge Fall 2020: Protect Purdue: There will be two challenges - one focused on Python and one focused on R. These challenges will open for registration on November 18th. We plan to acceptopen for submissions a week later.
+- COVID-19 Data Science Challenge Fall 2020: Protect Purdue: This challenge is complete. Check out the results here!
+- COVID-19 Data Science Challenge Spring 2021: This challenge will open soon and run through June 2021! Sign up at ironhacks.com to get updates.
 
 ## How to participate?
 
