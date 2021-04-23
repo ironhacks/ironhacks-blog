@@ -48,10 +48,6 @@ Today, we have more, increasingly granular, and actual data available to answer 
 
 Our COVID-19 Data Science Challenges invite participants to build statistical models and visualizations that monitor and predict social movement behavior during the COVID-19 pandemic over time. The goal is to predict weekly patterns of movement and social interaction in our local communities to understand COVID-19 risks.
 
-- August 2020 COVID-19 Data Science Challenge: This first COVID-19 Data Science Challenge focused on predicting the foot traffic at major brands (e.g. Target, Domino's Pizza etc.). The goal was to foresee which brands were experiencing the greatest surge in visitors.
-
-- Fall 2020 COVID-19 Data Science Challenge: Protect Purdue. This challenge asked participants to monitor and predict weekly foot traffic at thousands of places of interest (e.g. restaurants, stores, churches) in Tippecanoe County, Indiana. It responded to a statement made by Purdue's Leadership team: that COVID-19 risk is not necessarily arising in campus buildings but, rather, emerging from off-campus social gatherings like in restaurants, shops, etc.
-
 - **Spring 2021 COVID-19 Data Science Challenge: More details announced soon!**
 
 In the 2021 Challenge, participants will have access to NEW actual, granular, and temporal data they typically do not have access to: Data about social distancing behavior, foot traffic, COVID-19 incidents, as well as executive orders. This BIG data is also used by state governments in the US as well scientists who try to understand social movements during COVID-19 pandemic.
@@ -91,16 +87,11 @@ IronHacks is a global virtual open data hacking platform that allows users to pa
 
 ## What is the timeline?
 
-Typically, each hack runs for about 3 to 4 weeks! But we are offering a new change for Spring 2021.
-
-- COVID-19 Data Science Challenge Summer 2020: This challenge is complete. Check out the results here!
-- COVID-19 Data Science Challenge Fall 2020: Protect Purdue: This challenge is complete. Check out the results here!
-
 - **COVID-19 Data Science Challenge Spring 2021:** This challenge will open soon and run through June 2021! Sign up at ironhacks.com to get updates.
 
 ## How to participate?
 
-- Sign up on ironhacks.com to learn more about the upcoming Protect Purdue Challenge and other future challenges and timelines.
+- Sign up on ironhacks.com to learn more about the upcoming Challenge and other future challenges and timelines.
 - Reach out to us with any questions by sending us an email
 - Watch our recent publicly accessible Info Sessions.
 - Check our event calendar for upcoming Info Sessions (held via Webex or Google meets) and other deadlines.
