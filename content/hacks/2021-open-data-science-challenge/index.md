@@ -36,6 +36,9 @@ categories:
 - Hacks
 ---
 
+## IronHacks
+is an open data hacking program that empowers programmers - from beginners to professionals - to solve civic challenges during a multi-phase and learning-oriented process. The IronHacks platform offers participants a no-set-up programming environment and many powerful features to create novel and useful models and visualizations that help citizens and governments to make better decisions.
+
 ## Why the COVID-19 Data Science Challenges?
 
 COVID-19 is upending our health, our social communities, and our economy. Over the past year the Research Center for Open Digital Innovation (RCODI) launched an IronHacks series to help leaders in making the right decisions as we are moving through this pandemic. Leaders in our country who are responsible for protecting their citizens' welfare and quality of life face difficult questions, such as: When and where do citizens expose themselves and others the most to COVID-19 risk? Which regions and places (stores, restaurants, etc.) are predicted to be hotspots for social crowding increasing the risk of virus spread?
@@ -121,3 +124,7 @@ IronHacks is a global virtual open data hacking platform that allows users to pa
   It is financially supported by the National Science Foundation (Award #1462044).
 
 Would you like to support us directly? You can contact us at [here](mailto:c562462b.groups.purdue.edu@amer.teams.ms) partnership with the Research Center for Open Digital Innovation at Purdue University.
+
+## Get Involved
+Sign up for the next hack [here](https://ironhacks.com).
+Learn more with our [online walkthrough](https://www.youtube.com/watch?v=8YLLXMhtTB4).
