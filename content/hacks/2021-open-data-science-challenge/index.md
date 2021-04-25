@@ -27,27 +27,15 @@ categories:
 - Hacks
 ---
 
-## Background
-IronHacks is an open data hacking program that empowers programmers - from beginners to professionals - to solve civic challenges during a multi-phase and learning-oriented process. The IronHacks platform offers participants a no-set-up programming environment and many powerful features to create novel and useful models and visualizations that help citizens and governments to make better decisions. 
+## IronHacks Background
+IronHacks a platform that provides seasoned and beginning data scientists the means to resolve pressing civic issues alongisde a community of like-minded individuals. As an open data platform, it offers granular datasets for computation and analysis. IronHackers are tasked with analyzing the data and devising a front-facing explanation to enable policymakers to make informed decisions. The IronHacks platform is simply the means for talented data scientists to put their efforts towards the greater good with a multi-phase and learning-oriented product development process. IronHackers are provided a no-setup programming environment and a plethora of tools they can use to develop novel models and visualizations that help policymakers make informed decisions. 
 
-## The task and the data 
-COVID-19 has impacted our daily lives. As additional restrictions are lifted and citizens get vaccinated, governments and corporations need to understand citizens' economic and social activity. With huge spikes suh as those seen within Michigan recently, the question is posed: what are individuals doing with their time? Where are they going? What's the outlook of the places they're going? Is it safe to go to the cinema, a restaurant, to resume daily living? An increase of social activity can indicate a normalization of daily routines and economic activity. This creates risk, resulting in less precisely-measured metrics in locations such as closed buildings, since social distancing metrics are more difficult to maintain (see **[CDC](https://bit.ly/2UVHMCM)** news).  Your task is to predict the weekly foot traffic at core places in Marion County, Indiana, to understand the ongoing COVID-19 impact and risk. We preprocessed very large and actual and granular datasets from our partners (e.g. **[SafeGraph](http://safegraph.com)**), such as weekly footprint data at different points of interest (POI) in Marion County.  You will use this data to develop a predictive statistical model and communicate the results using data charts. With such predictions you have the unique opportunity to help this community and leaders in the State of Indiana fight the COVID-19 pandemic. More details can be found in the [task statement] (https://ironhacks.com/hacks/covid-19-data-science-challenge-spring-2021/task). 
-Our increasingly granular and actual data available will aid in answering those questions. With daily updated mobility and location data collected via our mobile phones, visitor counts at core places, regional spending data, unemployment claims, and so on, it will take the collective effort of a crowd of IronHackers to turn this data into something insightful and develop models that help us predict and expose the social and economic impact of COVID-19 at granular level. 
-
-## Spring 2021
-In the 2021 Challenge, participants will have access to NEW actual, granular, and temporal data they typically do not have access to: Data about social distancing behavior, foot traffic, COVID-19 incidents, as well as executive orders. This BIG data is also used by state governments in the US as well scientists who try to understand social movements during COVID-19 pandemic.
-Equipped with this data, participants will work in the IronHacks workspace with JupyterLab and access to BigQuery to create novel and useful statistical models and visualizations using Python and R. Participants will submit Jupyter notebooks and their outputs (html and markdown files).
-The most recent challenge is the third installment of our COVID-19 Data Science Challenges. Our Hacks serve as a means for participants to build statistical models and visualizations that monitor and predict social movement behavior during the COVID-19 pandemic over time. The goal is to predict weekly patterns of movement and social interaction in our local communities to understand COVID-19 risks.
-
-## What is the timeline?
-- **COVID-19 Data Science Challenge Spring 2021:** This challenge will open soon and run through June 2021! Sign up at ironhacks.com to get updates.
-
-## How does the process work?
-IronHacks is a global virtual open data hacking platform that allows users to participate in a high-energy IronHacks competition. The IronHacks platform offers participants a no setup workspace with JupyterLab and BigQuery integration and many powerful features to create novel and useful models and visualizations. It also offers training and tutorials, as well as a personal dashboard to view scores and progress through the competition. After registration, participants can warm-up, practice their skills and query sample data until sufficient participants have joined to launch the competition. After the start of the competition, a multiphase process will start. Each challenge moves through the following phases.
-- Registration and warm-up phase: If you have registered for one of the Challenges that are available, you will have the opportunity to warm-up using our tutorials.
-- Start of competition followed by multiphase process: The competition starts based on invitation, usually followed by multiple interim and one final submission
-  - Interim submissions: At multiple interim submission points, you will receive immediate feedback on your current standing, giving you the opportunity to improve over time.
-  - Final submission: There will be a final submission before we identify the winners.
+## The COVID-19 IronHack
+COVID-19 has impacted our daily lives. As citizens get vaccinated and society slowly returns to the norm, governments and corporations need to understand citizens' economic and social activity.
+Within Michigan, there has been a significant uptick of COVID-19 cases, and the question arose: _Will life ever be the same?_
+Will it ever be safe to go to the cinema, a restaurant, to resume daily living? 
+An increase of social activity can indicate a normalization of daily routines and economic activity. This creates risk, resulting in less precisely-measured metrics in locations such as closed buildings (see **[CDC](https://bit.ly/2UVHMCM)** news).  Your task is to predict the weekly foot traffic at core points of interest in Marion County, Indiana, to understand the ongoing COVID-19 impact and risk. We preprocessed large, actual, granular datasets from our partners (e.g. **[SafeGraph](http://safegraph.com)**) such as weekly footprint data at different points of interest in Marion County. Hackers will use this data to develop a predictive statistical model and communicate the results using data charts. IronHacks is offering data scientists the unique opportunity to help Marion County and leaders in the State of Indiana fight the COVID-19 pandemic. More details can be found in the [task statement] (https://ironhacks.com/hacks/covid-19-data-science-challenge-spring-2021/task). 
+Our increasingly granular and actual data available will aid in answering those questions. With daily updated mobility and location data collected via our mobile phones, visitor counts at core places, regional spending data, unemployment claims, and so on, it will take the collective effort of a crowd of IronHackers to turn this data into something insightful and develop models that help us predict and expose the social and economic impact of COVID-19 at a granular level. 
 
 ## How will participants be evaluated?
 In past competitions, each participant's notebook was evaluated in several dimensions. Examples are:
@@ -57,15 +45,11 @@ In past competitions, each participant's notebook was evaluated in several dimen
 - Quality of the software code
 - More details on the evaluation criteria will be released at the start of the competition.
 
-## How to participate?
-- Sign up on on the [IronHacks](https://ironhacks.com) website to learn more about the upcoming Challenge and other future challenges and timelines.
-- Reach out to us with any questions by sending us an email
-- Watch our recent publicly accessible Info Sessions.
-- Check our event calendar for upcoming Info Sessions (held via Webex or Google meets) and other deadlines.
-- And do not forget to Register for one of the Challenges (R or Python) to save your space in the competition. Registration has opened!
+## What are the benefits?
+In the 2021 Challenge, participants will have access to updated proprietary data they typically do not have access to, such as: social distancing behavioral data, foot traffic, COVID-19 incidents, and executive orders. This is the data typically referenced by state governments in the US as well scientists who learning about social movements during the COVID-19 pandemic.
+Equipped with this data, participants will work in the IronHacks workspace with JupyterLab and access to BigQuery to create novel and useful statistical models and visualizations using Python and R. Participants will submit Jupyter notebooks and their outputs (html and markdown files). Doing so not only is good practice, but enables participants to win from the $1,000 pool of awards.
 
 ## What people are saying?
-
 <div style="display:flex; justify-content: center; padding: 1em 0">
   {{< tw_tweet hashtag="IronHacks" >}}
 </div>
@@ -77,21 +61,12 @@ In past competitions, each participant's notebook was evaluated in several dimen
   {{< cta cta_text="Sign Up Now" cta_link="https://ironhacks.com/login" cta_new_tab="true" >}}
 </div>
 
-### What do prior participants say?
 > "The excitement to know how my model would perform after every round kept me enthused till the end! These predictions can give insights into social distancing norms and implement necessary precautions."
 - Feny Patel (Purdue University), 1st Place August 2020 Challenge
 
 > "My greatest experience was being able to try on algorithms I never use. I also had the freedom to experiment, instead of defaulting to certain known models due to crunching code within 24 hours like typical hackathons."
 - Harsha Pavuluri (Purdue University), 2nd Place August 2020 Challenge
 
----
-
-## Core Partners
-![](./ironhacks-partners-2020.jpg)
-> IronHacks is an initiative of the Research Center for Open Digital Innovation (RCODI).
-  It is financially supported by the National Science Foundation (Award #1462044).
-Would you like to support us directly? You can contact us at [here](mailto:c562462b.groups.purdue.edu@amer.teams.ms) partnership with the Research Center for Open Digital Innovation at Purdue University.
-
-## Get Involved
+## What to do next? Get involved! 
 Sign up for the next hack [here](https://ironhacks.com).
 Learn more with our [online walkthrough](https://www.youtube.com/watch?v=8YLLXMhtTB4).
