@@ -39,23 +39,23 @@ categories:
 ## IronHacks
 is an open data hacking program that empowers programmers - from beginners to professionals - to solve civic challenges during a multi-phase and learning-oriented process. The IronHacks platform offers participants a no-set-up programming environment and many powerful features to create novel and useful models and visualizations that help citizens and governments to make better decisions.
 
-## Why the COVID-19 Data Science Challenges?
+## The task and the data 
+COVID-19 has impacted our daily lives. As additional restrictions are lifted and citizens get vaccinated, governments and corporations need to understand citizens' economic and social activity. Where do they go and spend time inside? (e.g. restaurants, grocery stores or cinemas). An increase of social activity can indicate a normalization of daily routines and economic activity. However, it also creates a risk resulting inside closed buildings since there social distancing metrics are difficult to maintain (see **[CDC](https://bit.ly/2UVHMCM)** news).  Your task is to predict the weekly foot traffic at core places in Marion County, Indiana in order to understand the continuing COVID-19 impact and risk. We preprocessed very large and actual and granular dataset from our partners (e.g. **[SafeGraph](http://safegraph.com)**), such as weekly footprint data at different points of interest (POI) in Marion County.  You will use this data to develop a predictive statistical model and communicate the results using data charts. With such predictions you have the unique opportunity to help this community and leaders in the State of Indiana fight the COVID-19 pandemic. More details can be found in the [task statement] (https://ironhacks.com/hacks/covid-19-data-science-challenge-spring-2021/task). 
 
+## What are the Challenges about?
+The most recent challenge is the third installment of our COVID-19 Data Science Challenges. Our Hacks serve as a means for participants to build statistical models and visualizations that monitor and predict social movement behavior during the COVID-19 pandemic over time. The goal is to predict weekly patterns of movement and social interaction in our local communities to understand COVID-19 risks.
+
+## Spring 2021
+In the 2021 Challenge, participants will have access to NEW actual, granular, and temporal data they typically do not have access to: Data about social distancing behavior, foot traffic, COVID-19 incidents, as well as executive orders. This BIG data is also used by state governments in the US as well scientists who try to understand social movements during COVID-19 pandemic.
+
+Equipped with this data, participants will work in the IronHacks workspace with JupyterLab and access to BigQuery to create novel and useful statistical models and visualizations using Python and R. Participants will submit Jupyter notebooks and their outputs (html and markdown files).
+
+## Why the COVID-19 Data Science Challenges?
 COVID-19 is upending our health, our social communities, and our economy. Over the past year the Research Center for Open Digital Innovation (RCODI) launched an IronHacks series to help leaders in making the right decisions as we are moving through this pandemic. Leaders in our country who are responsible for protecting their citizens' welfare and quality of life face difficult questions, such as: When and where do citizens expose themselves and others the most to COVID-19 risk? Which regions and places (stores, restaurants, etc.) are predicted to be hotspots for social crowding increasing the risk of virus spread?
 
 Today, we have more, increasingly granular, and actual data available to answer those questions: Daily updated mobility and location data collected via our mobile phones, visitor counts at core places, regional spending data, unemployment claims, etc. However, it takes the collective effort of a crowd of IronHackers to turn this data into something useful and develop models that help us predict and explore the social and economic impact of COVID-19 at granular level.
 
 ---
-
-## What are the Challenges about?
-
-Our COVID-19 Data Science Challenges invite participants to build statistical models and visualizations that monitor and predict social movement behavior during the COVID-19 pandemic over time. The goal is to predict weekly patterns of movement and social interaction in our local communities to understand COVID-19 risks.
-
-- **Spring 2021 COVID-19 Data Science Challenge: More details announced soon!**
-
-In the 2021 Challenge, participants will have access to NEW actual, granular, and temporal data they typically do not have access to: Data about social distancing behavior, foot traffic, COVID-19 incidents, as well as executive orders. This BIG data is also used by state governments in the US as well scientists who try to understand social movements during COVID-19 pandemic.
-
-Equipped with this data, participants will work in the IronHacks workspace with JupyterLab and access to BigQuery to create novel and useful statistical models and visualizations using Python and R. Participants will submit Jupyter notebooks and their outputs (html and markdown files).
 
 ## What do prior participants say?
 
