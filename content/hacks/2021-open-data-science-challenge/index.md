@@ -1,5 +1,5 @@
 ---
-title: 2021 Data Science Challenge
+title: 2021 COVID-19 Data Science Challenges: The Series continues...
 subtitle: A Series of Global COVID-19 Data Science Challenges
 # Summary for listings and search engines
 summary: A Series of Global COVID-19 Data Science Challenges
@@ -27,29 +27,46 @@ categories:
 - Hacks
 ---
 
-## IronHacks Background
-IronHacks a platform that provides seasoned and beginning data scientists the means to resolve pressing civic issues alongisde a community of like-minded individuals. As an open data platform, it offers granular datasets for computation and analysis. IronHackers are tasked with analyzing the data and devising a front-facing explanation to enable policymakers to make informed decisions. The IronHacks platform is simply the means for talented data scientists to put their efforts towards the greater good with a multi-phase and learning-oriented product development process. IronHackers are provided a no-setup programming environment and a plethora of tools they can use to develop novel models and visualizations that help policymakers make informed decisions. 
+## Why the COVID-19 Data Science Challenges 2021?
 
-## The COVID-19 IronHack
-COVID-19 has impacted our daily lives. As citizens get vaccinated and society slowly returns to the norm, governments and corporations need to understand citizens' economic and social activity.
-Within Michigan, there has been a significant uptick of COVID-19 cases, and the question arose: _Will life ever be the same?_
-Will it ever be safe to go to the cinema, a restaurant, to resume daily living? 
-An increase of social activity can indicate a normalization of daily routines and economic activity. This creates risk, resulting in less precisely-measured metrics in locations such as closed buildings (see **[CDC](https://bit.ly/2UVHMCM)** news).  Your task is to predict the weekly foot traffic at core points of interest in Marion County, Indiana, to understand the ongoing COVID-19 impact and risk. We preprocessed large, actual, granular datasets from our partners (e.g. **[SafeGraph](http://safegraph.com)**) such as weekly footprint data at different points of interest in Marion County. Hackers will use this data to develop a predictive statistical model and communicate the results using data charts. IronHacks is offering data scientists the unique opportunity to help Marion County and leaders in the State of Indiana fight the COVID-19 pandemic. More details can be found in the [task statement] (https://ironhacks.com/hacks/covid-19-data-science-challenge-spring-2021/task). 
-Our increasingly granular and actual data available will aid in answering those questions. With daily updated mobility and location data collected via our mobile phones, visitor counts at core places, regional spending data, unemployment claims, and so on, it will take the collective effort of a crowd of IronHackers to turn this data into something insightful and develop models that help us predict and expose the social and economic impact of COVID-19 at a granular level. 
+In 2020, the IronHacks team launched the COVID-19 Data Science Challenges as a unique opportunities for aspiring data scientists to "hack the pandemic". With the lockdown starting 2020, COVID-19 has impacted our daily lives and social activity. The August 2020 and the Fall 2020 data science challenges encouraged data scientists at Purdue and other institutions to help governments and corporations understand the economic and social impact of COVID-19 in 2020. You can read more about those challenges [here](https://blog.ironhacks.com/hacks/2020-10-01-protect-purdue-hack/). In 2021, this exciting series continues giving data scientists around the world the opportunity to making societal impact while using and improving their data science skills. There are a significant reasons why this series continues....
+
+In 2021, COVID-19 is still continuing to impact our lives in many ways. As citizens get vaccinated and governmental restrictions are lifted, citizens have started to increase their social activity: they start to travel, visit stores to shop, eat out, and attend public events like football games. An increase of social activity can indicate a normalization of daily routines and economic activity. However,  as long as we haven't reached herd immunity, there is still a risk that the virus spreads - in particularly in closed buildings and locations like restaurants where the transmition rate is much higher (see **[CDC](https://bit.ly/2UVHMCM)**).  The surge of COVID-19 cases in Michigan in spring 2021 illustrates th is inherent risk. Despite the increase in vaccination, the virus and new variants are spreading (see **[CDC](https://bit.ly/3dSFpLp)**).  Places like restaurants pose a particularily high risk. Thus, citizens but also governments and corporations need to have a good understanding of the vaccination trends as well as social movement activities. Thus, we decided to continue our data science challenges in 2021 and invite people with data science interest and skills to solve data science challenges in the cloud. We will run multiple challenges on important topics like predicting visits at restaurants in densily populated counties in Indiana, monitoring vaccination levels, etc. 
+
+## What are the COVID-19 Data Science Challenges in about?
+
+We have currently planned to run two challenges 
+
+1. ***Data Science Challenge Spring-Summer 2021**: Predicting visits at restaurants in Marion County, Indiana using real-time data. 
+This is challenge that will run for 2 months offering participants the opportunity learn while working with real-time data. The data science task is to predict the weekly foot traffic at restaurants in Marion County, Indiana. We preprocessed large, actual, granular datasets from our partners (e.g. [SafeGraph](http://safegraph.com)) and we will stream them in real-time so that you can work with almost real-time data. There are 14 submission opportunities but only the two best submission count for the final scoring. The submission should contain predictive statistical models as well as visualizations. This long-term hack is a unique opportunity to help Marion County and leaders in the State of Indiana fight the COVID-19 pandemic. 
+2. **Data Science Challenge Summer 2021 **: Monitoring and Comparing Vaccination Levels in the US. 
+This challenge will run for about one month and will focus on monitoring the vaccination levels in the US. This challenge focuses on identifying the challenges for realizing herd immunity in our country. Participants will work with real-time data from our partners and public websites. Just like in the Spring-Summer 2021 challenge, this challenge will have multiple submission rounds and will offer participants to improve their analysis over time using real-world data. 
 
 ## How will participants be evaluated?
-In past competitions, each participant's notebook was evaluated in several dimensions. Examples are:
-- The accuracy of your model's prediction (e.g. mean squared error)
-- Your effort to explore a variety of solutions (data, models, etc.)
-- Quality and usefulness of the presentation and interpretation of your data/models in a final interactive report (including data visualization)
-- Quality of the software code
-- More details on the evaluation criteria will be released at the start of the competition.
+In past competitions, each participant's notebook was evaluated in several dimensions with a focus on learning, exploration and creativity. So in this respect IronHacks is different from other competitions that are only focused on performance only.  Examples are:
+- The accuracy of your analysis (e.g. the prediction accuray measured with the mean squared error or the correct descriptive analysis for a simpler challenge). 
+- Your learning effort and creativity in exploring a variety of different data and modles 
+- The usefulness of the presentation and interpretation of your data/models in a final interactive report (including data visualization)
+More details on the evaluation criteria will be released at the start of the competition.
+
+## What is the timeline? 
+
+1. ***Data Science Challenge Spring-Summer 2021**: This challenge will open for registration on April 26, 2021 and will run until June 23, 2021. There are multiple submission opportunities, at which your solution will be scored in real-time. The  first submission opportunity is on May 2, 2021. The last date to accept the rules is June 9, 2021. More details can be found 
+
+2. **Data Science Challenge Summer 2021 **: This challenge will open beginning of June and will run for 4 weeks. 
 
 ## What are the benefits?
-In the 2021 Challenge, participants will have access to updated proprietary data they typically do not have access to, such as: social distancing behavioral data, foot traffic, COVID-19 incidents, and executive orders. This is the data typically referenced by state governments in the US as well scientists who learning about social movements during the COVID-19 pandemic.
-Equipped with this data, participants will work in the IronHacks workspace with JupyterLab and access to BigQuery to create novel and useful statistical models and visualizations using Python and R. Participants will submit Jupyter notebooks and their outputs (html and markdown files). Doing so not only is good practice, but enables participants to win from the $1,000 pool of awards.
 
-## What people are saying?
+* Case prizes: We will reward the top 5 submission with case prizes. The final rank will be based on the quality (accuracy) as well as the exploration effort/creativity of the participant submission. The total prize money is $1000. 
+* Certificate: Every participant will receive a digital certificate for participation with logos of the sponsors.
+* Showcases: We will publish selected models www.ironhacks.com at the end of the competition. In addition, our partners will also feature the best solutions on their website.
+* Fellowship opportunity: Selected participants will have the opportunity to discuss a fellowship at RCODI
+* Publication: The winners of the award will be invited to co-publish a paper with the IronHacks team
+
+And **do not forget** - your contribution is essential to fight this pandemic. 
+
+Still not convinced about the benefits? Check out what others are saying: 
+
 <div style="display:flex; justify-content: center; padding: 1em 0">
   {{< tw_tweet hashtag="IronHacks" >}}
 </div>
@@ -67,6 +84,9 @@ Equipped with this data, participants will work in the IronHacks workspace with 
 > "My greatest experience was being able to try on algorithms I never use. I also had the freedom to experiment, instead of defaulting to certain known models due to crunching code within 24 hours like typical hackathons."
 - Harsha Pavuluri (Purdue University), 2nd Place August 2020 Challenge
 
-## What to do next? Get involved! 
-Sign up for the next hack [here](https://ironhacks.com).
-Learn more with our [online walkthrough](https://www.youtube.com/watch?v=8YLLXMhtTB4).
+## What are you waiting for? Get started...
+
+1. Sign-up on our platform  [here](https://ironhacks.com).
+2. Register for the upcoming challenge. 
+3. Send us a note if you have questions [here](<mailto:c562462b.groups.purdue.edu@amer.teams.ms>)
+4. Learn more with our [online walkthrough](https://www.youtube.com/watch?v=8YLLXMhtTB4)
