@@ -1,5 +1,5 @@
 ---
-title: 2021 COVID-19 Data Science Challenges: The Series continues...
+title: COVID-19 Data Science Challenges 2021
 subtitle: A Series of Global COVID-19 Data Science Challenges
 # Summary for listings and search engines
 summary: A Series of Global COVID-19 Data Science Challenges
@@ -37,9 +37,9 @@ In 2021, COVID-19 is still continuing to impact our lives in many ways. As citiz
 
 We have currently planned to run two challenges 
 
-1. ***Data Science Challenge Spring-Summer 2021**: Predicting visits at restaurants in Marion County, Indiana using real-time data. 
+1. ***COVID-19 Data Science Challenge Spring-Summer 2021**: Predicting visits at restaurants in Marion County, Indiana using real-time data. 
 This is challenge that will run for 2 months offering participants the opportunity learn while working with real-time data. The data science task is to predict the weekly foot traffic at restaurants in Marion County, Indiana. We preprocessed large, actual, granular datasets from our partners (e.g. [SafeGraph](http://safegraph.com)) and we will stream them in real-time so that you can work with almost real-time data. There are 14 submission opportunities but only the two best submission count for the final scoring. The submission should contain predictive statistical models as well as visualizations. This long-term hack is a unique opportunity to help Marion County and leaders in the State of Indiana fight the COVID-19 pandemic. 
-2. **Data Science Challenge Summer 2021 **: Monitoring and Comparing Vaccination Levels in the US. 
+2. **COVID-19 Data Science Challenge Summer 2021 **: Monitoring and Comparing Vaccination Levels in the US. 
 This challenge will run for about one month and will focus on monitoring the vaccination levels in the US. This challenge focuses on identifying the challenges for realizing herd immunity in our country. Participants will work with real-time data from our partners and public websites. Just like in the Spring-Summer 2021 challenge, this challenge will have multiple submission rounds and will offer participants to improve their analysis over time using real-world data. 
 
 ## How will participants be evaluated?
