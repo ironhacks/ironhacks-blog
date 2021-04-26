@@ -27,7 +27,7 @@ categories:
 - Hacks
 ---
 
-## Why the COVID-19 Data Science Challenges 2021?
+## **Why the COVID-19 Data Science Challenges 2021?**
 
 In 2020, the IronHacks team launched the COVID-19 Data Science Challenges as a unique opportunities for aspiring data scientists to "hack the pandemic". With the lockdown starting 2020, COVID-19 has impacted our daily lives and social activity. The August 2020 and the Fall 2020 data science challenges encouraged data scientists at Purdue and other institutions to help governments and corporations understand the economic and social impact of COVID-19 in 2020. You can read more about those challenges [here](https://blog.ironhacks.com/hacks/2020-10-01-protect-purdue-hack/). In 2021, this exciting series continues giving data scientists around the world the opportunity to making societal impact while using and improving their data science skills. There are a significant reasons why this series continues....
 
@@ -98,12 +98,15 @@ Still not convinced about the benefits? Check out what others are saying:
 3. Send us a note if you have questions **[here](<mailto:c562462b.groups.purdue.edu@amer.teams.ms>)**
 
 
+
+<div class="center">
+  {{< cta cta_text="Sign Up Now" cta_link="https://ironhacks.com/login" cta_new_tab="true" >}}
+</div>
+
+
 <div style="display:flex; justify-content: center; padding: 1em 0">
   {{< tw_tweet hashtag="IronHacks" >}}
 </div>
 
 {{< tw_timeline source="https://twitter.com/__matt_harris__/lists/ironhacks-com-14752?ref_src=twsrc%5Etfw" >}}
 
-<div class="center">
-  {{< cta cta_text="Sign Up Now" cta_link="https://ironhacks.com/login" cta_new_tab="true" >}}
-</div>
