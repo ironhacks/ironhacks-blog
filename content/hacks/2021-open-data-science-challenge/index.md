@@ -91,17 +91,11 @@ Still not convinced about the benefits? Check out what others are saying:
 
 ## What are you waiting for? Get started...
 
-1. Sign-up on our platform  **[here](https://ironhacks.com)**.
+1. Sign-up on our **[platform](https://ironhacks.com)**.
 
 2. Register for the upcoming challenge. 
 
 3. Send us a note if you have questions **[here](<mailto:c562462b.groups.purdue.edu@amer.teams.ms>)**
-
-   
-
-   <div class="center">
-     {{< cta cta_text="Sign Up Now" cta_link="https://ironhacks.com/login" cta_new_tab="true" >}}
-   </div>
 
 
 <div style="display:flex; justify-content: center; padding: 1em 0">
