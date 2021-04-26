@@ -33,7 +33,7 @@ In 2020, the IronHacks team launched the COVID-19 Data Science Challenges as a u
 
 In 2021, COVID-19 is still continuing to impact our lives in many ways. As citizens get vaccinated and governmental restrictions are lifted, citizens have started to increase their social activity: they start to travel, visit stores to shop, eat out, and attend public events like football games. An increase of social activity can indicate a normalization of daily routines and economic activity. However,  as long as we haven't reached herd immunity, there is still a risk that the virus spreads - in particularly in closed buildings and locations like restaurants where the transmition rate is much higher (see **[CDC](https://bit.ly/2UVHMCM)**).  The surge of COVID-19 cases in Michigan in spring 2021 illustrates th is inherent risk. Despite the increase in vaccination, the virus and new variants are spreading (see **[CDC](https://bit.ly/3dSFpLp)**).  Places like restaurants pose a particularily high risk. Thus, citizens but also governments and corporations need to have a good understanding of the vaccination trends as well as social movement activities. Thus, we decided to continue our data science challenges in 2021 and invite people with data science interest and skills to solve data science challenges in the cloud. We will run multiple challenges on important topics like predicting visits at restaurants in densily populated counties in Indiana, monitoring vaccination levels, etc. 
 
-## What are the COVID-19 Data Science Challenges in about?
+## **What are the COVID-19 Data Science Challenges in about?**
 
 We have currently planned to run two challenges: 
 
@@ -44,7 +44,7 @@ Wondering which state will reach herd immunity first? This challenge will run fo
 
 If you sign-up to our platform, you can follow along about updates and new challenges. 
 
-## How will participants be evaluated?
+## **How will participants be evaluated?**
 In past competitions, each participant's notebook was evaluated in several dimensions with a focus on learning, exploration and creativity. So in this respect IronHacks is different from other competitions that are only focused on performance only.  Examples are:
 - The **accuracy** of your analysis (e.g. the prediction accuray measured with the mean squared error or the correct descriptive analysis for a simpler challenge). 
 - Your **learning effort** and creativity in **exploring** a variety of different data and modles 
@@ -52,13 +52,13 @@ In past competitions, each participant's notebook was evaluated in several dimen
 
 More details on the evaluation criteria will be released at the start of the competition.
 
-## What is the timeline? 
+## **What is the timeline?** 
 
 1. **Data Science Challenge Spring-Summer 2021**: This challenge will open for registration on April 26, 2021 and will run until June 23, 2021. There are multiple submission opportunities, at which your solution will be scored in real-time. The  first submission opportunity is on May 2, 2021. The last date to accept the rules is June 9, 2021. More details can be found 
 
 2. **Data Science Challenge Summer 2021 **: This challenge will open beginning of June and will run for 4 weeks. 
 
-## Why should you participate?
+## **Why should you participate?**
 
 There are range of reasons why you should take up the challenge. 
 
@@ -73,6 +73,10 @@ And **do not forget** - your contribution is essential to fight this pandemic.
 
 Still not convinced about the benefits? Check out what others are saying: 
 
+
+
+-------
+
 *"The excitement to know how my model would perform after every round kept me enthused till the end! These predictions can give insights into social distancing norms and implement necessary precautions."*
 
 **Feny Patel (Purdue University), 1st Place August 2020 Challenge**
@@ -80,6 +84,10 @@ Still not convinced about the benefits? Check out what others are saying:
 *"My greatest experience was being able to try on algorithms I never use. I also had the freedom to experiment, instead of defaulting to certain known models due to crunching code within 24 hours like typical hackathons."*
 
 **Harsha Pavuluri (Purdue University), 2nd Place August 2020 Challenge**
+
+----
+
+
 
 ## What are you waiting for? Get started...
 
@@ -89,7 +97,7 @@ Still not convinced about the benefits? Check out what others are saying:
 
 3. Send us a note if you have questions **[here](<mailto:c562462b.groups.purdue.edu@amer.teams.ms>)**
 
-   ---
+   
 
    <div class="center">
      {{< cta cta_text="Sign Up Now" cta_link="https://ironhacks.com/login" cta_new_tab="true" >}}
