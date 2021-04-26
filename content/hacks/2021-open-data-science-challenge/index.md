@@ -65,7 +65,7 @@ There are range of reasons why you should take up the challenge.
 * **Showcases**: We will share the best solutions on their website.
 * **Fellowship opportunity**: Selected participants will have the opportunity to discuss a fellowship at RCODI
 * **Publication**: The winners of the award will be invited to co-publish a paper with the IronHacks team
-* **Learning experience**: As we have learned from prior participants, the iterative IronHacks  process (see more [here](www.ironhacks.com)) combined with the tools and features of the IronHacks platform offers a unique learning experience that is distinct from those you might have experienced on other sites (e.g. Kaggle.com)
+* **Learning experience**: As we have learned from prior participants, the iterative IronHacks  process (see more [here](www.ironhacks.com)) combined with the tools and features of the IronHacks platform offers a unique learning experience that is distinct from those you might have experienced on other sites (e.g. Kaggle.com)
 
 And **do not forget** - your contribution is essential to fight this pandemic. 
 
