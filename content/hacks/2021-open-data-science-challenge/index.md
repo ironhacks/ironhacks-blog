@@ -35,12 +35,14 @@ In 2021, COVID-19 is still continuing to impact our lives in many ways. As citiz
 
 ## What are the COVID-19 Data Science Challenges in about?
 
-We have currently planned to run two challenges 
+We have currently planned to run two challenges: 
 
 1. **COVID-19 Data Science Challenge Spring-Summer 2021**: Predicting visits at restaurants in Marion County, Indiana using real-time data. 
 Wondering if and where you should eat out when visiting Indianpolis? This data science challenge will ask participants to predict the weekly foot traffic at restaurants in Marion County, Indiana. We preprocessed large, actual, granular datasets from our partners (e.g. [SafeGraph](http://safegraph.com)) and we will stream them in real-time so that you can work with almost real-time data. This is challenge that will run for 2 months offering participants the opportunity learn while working with real-time data. There are 14 submission opportunities but only the two best submission count for the final scoring. The submission should contain predictive statistical models as well as visualizations. This long-term hack is a unique opportunity to help citizens like as well as owners of small business and governments make critical decisions. 
 2. **COVID-19 Data Science Challenge Summer 2021**: Monitoring and Comparing Vaccination Levels in the US. 
 Wondering which state will reach herd immunity first? This challenge will run for about one month and will focus on monitoring the vaccination levels in the US. This challenge focuses on identifying the challenges for realizing herd immunity in our country. Participants will work with real-time data from our partners and public websites. Just like in the Spring-Summer 2021 challenge, this challenge will have multiple submission rounds and will offer participants to improve their analysis over time using real-world data. 
+
+If you sign-up to our platform, you can follow along about updates and new challenges. 
 
 ## How will participants be evaluated?
 In past competitions, each participant's notebook was evaluated in several dimensions with a focus on learning, exploration and creativity. So in this respect IronHacks is different from other competitions that are only focused on performance only.  Examples are:
@@ -52,7 +54,7 @@ More details on the evaluation criteria will be released at the start of the com
 
 ## What is the timeline? 
 
-1. ***Data Science Challenge Spring-Summer 2021**: This challenge will open for registration on April 26, 2021 and will run until June 23, 2021. There are multiple submission opportunities, at which your solution will be scored in real-time. The  first submission opportunity is on May 2, 2021. The last date to accept the rules is June 9, 2021. More details can be found 
+1. **Data Science Challenge Spring-Summer 2021**: This challenge will open for registration on April 26, 2021 and will run until June 23, 2021. There are multiple submission opportunities, at which your solution will be scored in real-time. The  first submission opportunity is on May 2, 2021. The last date to accept the rules is June 9, 2021. More details can be found 
 
 2. **Data Science Challenge Summer 2021 **: This challenge will open beginning of June and will run for 4 weeks. 
 
@@ -81,10 +83,17 @@ Still not convinced about the benefits? Check out what others are saying:
 
 ## What are you waiting for? Get started...
 
-1. Sign-up on our platform  [here](https://ironhacks.com).
+1. Sign-up on our platform  **[here](https://ironhacks.com)**.
+
 2. Register for the upcoming challenge. 
-3. Send us a note if you have questions [here](<mailto:c562462b.groups.purdue.edu@amer.teams.ms>)
-4. Learn more with our [online walkthrough](https://www.youtube.com/watch?v=8YLLXMhtTB4)
+
+3. Send us a note if you have questions **[here](<mailto:c562462b.groups.purdue.edu@amer.teams.ms>)**
+
+   ---
+
+   <div class="center">
+     {{< cta cta_text="Sign Up Now" cta_link="https://ironhacks.com/login" cta_new_tab="true" >}}
+   </div>
 
 
 <div style="display:flex; justify-content: center; padding: 1em 0">
@@ -93,7 +102,6 @@ Still not convinced about the benefits? Check out what others are saying:
 
 {{< tw_timeline source="https://twitter.com/__matt_harris__/lists/ironhacks-com-14752?ref_src=twsrc%5Etfw" >}}
 
----
 <div class="center">
   {{< cta cta_text="Sign Up Now" cta_link="https://ironhacks.com/login" cta_new_tab="true" >}}
 </div>
