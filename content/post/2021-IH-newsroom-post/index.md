@@ -1,4 +1,7 @@
-## IronHacks in the News
+---
+title: 'IronHacks in the News again!'
+date: 2019-07-12
+---
 
 IronHacks has once more been featured by Purdue's Newsroom -- this time around, it was to recognize the tremendous efforts and results that came from the Hack, along with recognition of the first place winner, Senthamizhan V.
 
