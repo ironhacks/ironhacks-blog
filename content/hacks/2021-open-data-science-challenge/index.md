@@ -53,10 +53,11 @@ In past competitions, each participant's notebook was evaluated in several dimen
 More details on the evaluation criteria will be released at the start of the competition.
 
 ## **What is the timeline?** 
+### **Data Science Challenge Spring-Summer 2021**
+This challenge opens for registration on April 26, 2021 and will run until June 23, 2021. There are multiple submission opportunities, at which your solution will be scored in real-time. The  first submission opportunity is on May 2, 2021. The last date to accept the rules is June 9, 2021. More details can be found 
 
-1. **Data Science Challenge Spring-Summer 2021**: This challenge opens for registration on April 26, 2021 and will run until June 23, 2021. There are multiple submission opportunities, at which your solution will be scored in real-time. The  first submission opportunity is on May 2, 2021. The last date to accept the rules is June 9, 2021. More details can be found 
-
-2. **Data Science Challenge Summer 2021 **: This challenge will opens in the beginning of June and will run for 4 weeks. 
+### **Data Science Challenge Summer 2021 **
+This challenge will opens in the beginning of June and will run for 4 weeks. 
 
 ## **Why should you participate?**
 
@@ -103,5 +104,3 @@ And **do not forget** - your contribution is essential to fight this pandemic.
 2. Register for the upcoming challenge. 
 
 3. Send us a note if you have questions **[here](<mailto:c562462b.groups.purdue.edu@amer.teams.ms>)**
-
-
