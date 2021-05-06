@@ -9,5 +9,3 @@ design:
   spacing:
     padding: ["4rem", "0", "0", "0"]
 ---
-
-# The Spring-Summer 2021 Data Science Challenge: Hacking COVID 2.0 is here! Register at [IronHacks.com](https://ironhacks.com)
