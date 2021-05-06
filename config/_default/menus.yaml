@@ -4,7 +4,7 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: IronHacks Home
+  - name: IronHacks
     url: 'https://ironhacks.com'
     weight: 10
   - name: Posts
