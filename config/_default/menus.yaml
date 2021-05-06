@@ -6,9 +6,6 @@
 main:
   - name: IronHacks Home
     url: 'https://ironhacks.com'
-    weight: 01
-  - name: Blog Home
-    url: '/'
     weight: 10
   - name: Posts
     url: '/post'
