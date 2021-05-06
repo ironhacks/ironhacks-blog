@@ -26,5 +26,6 @@ Reach out to the IronHacks team [here](mailto:d27b1045.groups.purdue.edu@amer.te
 [Ready to hack for social good?](https://ironhacks.com)
 
 -_IronHacks Team_
+
 _Helping Hack for Social Change_
 
