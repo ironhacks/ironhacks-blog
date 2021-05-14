@@ -1,7 +1,6 @@
 ---
 title: 'Have you ever heard about BigQuery?'
 date: 2021-05-19
-draft: true
 ---
 
 BigQuery, the flagship for data warehousing product made by Google, and IronHacks can  teach you how to query with notebooks effectively. 
