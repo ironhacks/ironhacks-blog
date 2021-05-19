@@ -59,9 +59,14 @@ This challenge opens for registration on Spring 2021. There are multiple submiss
 ### Data Science Challenge Summer 2021
 This challenge will opens in the beginning of June and will run for at least 4 weeks. This challenge will be set-up in collaboration with the department of workforce development and will focus on unemployment trends.
 
-## Who is eligable? 
+## Who is eligible? 
 
-Everybody who 1) speaks English and 2) is older than 16 years and 3) has programming skills in **Python**. So what are you waiting for? 
+Everybody who:
+1) speaks English 
+2) is older than 16 years and 
+3) has programming skills in **Python**. 
+
+So what are you waiting for? 
 
 ## Why should you participate?
 
