@@ -38,8 +38,8 @@ In 2021, COVID-19 is continuing to impact our lives in many ways. As citizens ge
 We have currently planned to run two challenges: 
 
 1. **COVID-19 Data Science Challenge Spring-Summer 2021**: Predicting visits at restaurants in Tippecanoe and Marion County, Indiana using real-time data. 
-Wondering if and where you should eat out when visiting Indianpolis or Purdue University? This data science challenge will ask participants to predict the weekly foot traffic at restaurants in Tippecanoe and Marion County, Indiana. We preprocessed large, actual, granular datasets from our partners (e.g. [SafeGraph](http://safegraph.com)) and we will stream them in real-time so that you can work with almost real-time data. This is challenge that will run for 2 months offering participants the opportunity learn while working with real-time data. There are 14 submission opportunities but only the two best submission count for the final scoring. The submission should contain predictive statistical models as well as visualizations. This long-term hack is a unique opportunity to help citizens like as well as owners of small business and governments make critical decisions. 
-2. **COVID-19 Data Science Challenge Summer 2021**: Monitoring and Comparing Vaccination Levels in the US. 
+Wondering if and where you should eat out when visiting Indianpolis or Purdue University? This data science challenge will ask participants to predict the weekly foot traffic at restaurants in Tippecanoe and Marion County, Indiana. We preprocessed large, actual, granular datasets from our partners (e.g. [SafeGraph](http://safegraph.com)) and we will stream them in real-time so that you can work with almost real-time data. This is challenge that will run for 2 months offering participants the opportunity learn while working with real-time data. There are multiple submission opportunities but only the two best submission count for the final scoring. The submission should contain predictive statistical models as well as visualizations. This long-term hack is a unique opportunity to help citizens like as well as owners of small business and governments make critical decisions. 
+2. **COVID-19 Data Science Challenge Summer 2021**: Monitoring and Comparing Unemployment Levels in the State of Indiana. 
 
 If you sign-up to our platform, you can follow along about updates and new challenges. 
 
@@ -52,13 +52,17 @@ In past competitions, each participant's notebook was evaluated in several dimen
 More details on the evaluation criteria will be released at the start of the competition.
 
 ## What is the timeline?
-### Data Science Challenge Spring-Summer 2021
-This challenge opens for registration on April 26, 2021 and will run until June 23, 2021. There are multiple submission opportunities, at which your solution will be scored in real-time. The  first submission opportunity is on May 2, 2021. The last date to accept the rules is June 9, 2021. More details can be found 
 
-**Data Science Challenge Spring-Summer 2021**: This challenge will open for registration on April 27, 2021 and will run until June 27, 2021. There are multiple submission opportunities, at which your solution will be scored in real-time. The  first submission opportunity is on May 9, 2021. The last date to accept the rules is June 9, 2021. More details can be found after the registration to the challenge on www.ironhacks.com 
+### Data Science Challenge Spring-Summer 2021
+This challenge opens for registration on Spring 2021. There are multiple submission opportunities, at which your solution will be scored in real-time. The last date to accept the rules is June 2, 2021.  More details can be found after the registration to the challenge on www.ironhacks.com 
 
 ### Data Science Challenge Summer 2021
-This challenge will opens in the beginning of June and will run for 4 weeks. 
+This challenge will opens in the beginning of June and will run for at least 4 weeks. This challenge will be set-up in collaboration with the department of workforce development and will focus on unemployment trends.
+
+## Who is eligable? 
+
+Everybody who 1) speaks English and 2) is older than 16 years and 3) has programming skills in **Python**. So what are you waiting for? 
+
 ## Why should you participate?
 
 There are range of reasons why you should take up the challenge. 
