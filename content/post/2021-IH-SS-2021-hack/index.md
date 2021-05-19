@@ -1,10 +1,12 @@
 ---
 title: 'We need you to hack COVID 2.0'
-date: 2021-05-05
-draft: true
+date: 2021-05-06
+tags:
+  - IronHacks
 ---
 
-#### The day you've been waiting for is here – the IronHacks Data Science Challenge is live, and society needs your help.
+
+#### The day you've been waiting for is here – the Spring-Summer IronHacks Data Science Challenge is live, and society needs your help.
 
 As vaccines are distributed and society is returning to the norm, data scientists seasoned and new are using the IronHacks platform to make an impact in the community by predicting what the foot traffic at COVID hotspots will be over time. While hacking for social cause over the course of two months, top participants have a shot at winning a share of $1,000 in prizes for developing insightful models policymakers can reference to protect communities.
 
@@ -19,6 +21,16 @@ As vaccines are distributed and society is returning to the norm, data scientist
 * "The excitement to know how my model would perform after every round kept me enthused till the end! These predictions can give insights into social distancing norms and implement necessary precautions." - Feny Patel
 ---
 
+**Key dates:**
+* First submission opportunity: May 16, 2021
+* Schedule of submission opportunities: Every Wednesday and Saturday
+* Last day to accept the rules of the competition: June 2, 2021
+* Final submission: June 30, 2021
+
+**Next steps**
+Sign up for the hack [here](https://ironhack.com)
+Check our calendar to see when we have an infosession and attend!
+
 **Questions?** 
 Reach out to the IronHacks team [here](mailto:d27b1045.groups.purdue.edu@amer.teams.ms).
 
@@ -26,5 +38,8 @@ Reach out to the IronHacks team [here](mailto:d27b1045.groups.purdue.edu@amer.te
 [Ready to hack for social good?](https://ironhacks.com)
 
 -_IronHacks Team_
+
 _Helping Hack for Social Change_
+
+
 
