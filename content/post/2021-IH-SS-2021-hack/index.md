@@ -4,7 +4,7 @@ date: 2021-05-05
 draft: true
 ---
 
-#### The day you've been waiting for is here – the Spring and Summer IronHacks Data Science Challenge is live, and society needs your help. 
+#### The day you've been waiting for is here – the IronHacks Data Science Challenge is live, and society needs your help.
 
 As vaccines are distributed and society is returning to the norm, data scientists seasoned and new are using the IronHacks platform to make an impact in the community by predicting what the foot traffic at COVID hotspots will be over time. While hacking for social cause over the course of two months, top participants have a shot at winning a share of $1,000 in prizes for developing insightful models policymakers can reference to protect communities.
 
