@@ -13,3 +13,6 @@ main:
   - name: Hacks
     url: '/hacks'
     weight: 60
+  - name: Support & Collaboration
+    url: 'https://ironhacks.com/get-involved/'
+    weight: 65
