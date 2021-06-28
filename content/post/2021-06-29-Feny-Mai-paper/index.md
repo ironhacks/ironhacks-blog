@@ -1,5 +1,5 @@
 ---
-title: 'Spotlight Feature: Elkady, Patel, Dr. Brunswicker present about skills &  platform engagement with Dr. Brunswicker'
+title: 'Spotlight Feature: Elkady, Patel, Dr. Brunswicker present about skills &  platform engagement'
 date: 2021-06-28
 math: true
 diagram: true
