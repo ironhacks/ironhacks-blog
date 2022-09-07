@@ -51,7 +51,7 @@ More details on the evaluation criteria will be released at the start of the com
 ## What is the timeline?
 
 ### Hack the Recoery
-This challenge opens for registration on September 2022. There are multiple submission opportunities, at which your solution will be scored in real-time. The last date to accept the rules is 30 September, 2022.  More details can be found after the registration to the challenge on www.ironhacks.com 
+This challenge opens for registration on November 2022. There are multiple submission opportunities, at which your solution will be scored in real-time. The last date to accept the rules is 15 November, 2022.  More details can be found after the registration to the challenge on www.ironhacks.com 
 
 
 ## Who is eligible? 
@@ -72,7 +72,7 @@ There are range of reasons why you should take up the challenge.
 * **Showcases**: We will share the best solutions on their website.
 * **Learning experience**: As we have learned from prior participants, the iterative IronHacks  process (see more [here](www.ironhacks.com)) combined with the tools and features of the IronHacks platform offers a unique learning experience that is distinct from those you might have experienced on other sites (e.g. Kaggle.com)
 
-And **do not forget** - your contribution is essential to fight this pandemic. 
+And **do not forget** - your contribution is essential to fight unemployment. 
 
 ---
 
