@@ -35,7 +35,7 @@ In 2022, as citizens get vaccinated and governmental restrictions are lifted, ci
 
 ## **What is Hack the Recovery about?**
 
-The hack is all about monitoring and comparing unemployment levels in the state of Indiana. Wondering about the profiles of the people who are likely to make unemployment claims? This data science challenge will ask participants to predict the unemployment claims in Indiana using real world data. We preprocessed large, actual, granular datasets from our partner and we will stream them in real-time so that you can work with almost real-time data. This challenge will run for a week, offering participants the opportunity to learn while working with real-time data. There are multiple submission opportunities but only the two best submission count for the final scoring. The submission should contain predictive statistical models as well as visualizations. This long-term hack is a unique opportunity to help the society tackle the challenges of unemployment and help companies find the right talents that are out there. 
+The hack is all about monitoring and comparing unemployment levels in the state of Indiana. Wondering about the profiles of the people who are likely to make unemployment claims? This data science challenge will ask participants to predict the unemployment claims in Indiana using real world data. We preprocessed large, actual, granular datasets from our partner and we will stream them in real-time so that you can work with almost real-time data. This challenge will run for a week, offering participants the opportunity to learn while working with real-time data. There are multiple submission opportunities but only the two best submission count for the final scoring. The submission should contain predictive statistical models that you have tried. This long-term hack is a unique opportunity to help the society tackle the challenges of unemployment and help companies find the right talents that are out there. 
 
 
 If you sign-up to our platform, you can follow along about updates and new challenges. 
@@ -44,7 +44,7 @@ If you sign-up to our platform, you can follow along about updates and new chall
 In past competitions, each participant's notebook was evaluated in several dimensions with a focus on learning, exploration and creativity. So in this respect IronHacks is different from other competitions that are only focused on performance only.  Examples are:
 - The **accuracy** of your analysis (e.g. the prediction accuray measured with the mean squared error or the correct descriptive analysis for a simpler challenge). 
 - Your **learning effort** and creativity in **exploring** a variety of different data and models
-- The **usefulness** of the presentation and interpretation of your data/models in a final interactive report (including data visualization)
+- The **usefulness** of the presentation and interpretation of your data/models in a final interactive report.
 
 More details on the evaluation criteria will be released at the start of the competition.
 
