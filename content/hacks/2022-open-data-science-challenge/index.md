@@ -35,7 +35,7 @@ In 2022, as citizens get vaccinated and governmental restrictions are lifted, ci
 
 ## **What is Hack the Recovery about?**
 
-The hack is all about monitoring and cmparing unemployment levels in the state of Indiana. Wondering about the profiles of the people who are likely to make unemployment claims? This data science challenge will ask participants to predict the unemployment claims in Indiana using real world data. We preprocessed large, actual, granular datasets from our partner and we will stream them in real-time so that you can work with almost real-time data. This challenge will run for a week, offering participants the opportunity to learn while working with real-time data. There are multiple submission opportunities but only the two best submission count for the final scoring. The submission should contain predictive statistical models as well as visualizations. This long-term hack is a unique opportunity to help the society tackle the challenges of unemployment and help companies find the right talents that are out there. 
+The hack is all about monitoring and comparing unemployment levels in the state of Indiana. Wondering about the profiles of the people who are likely to make unemployment claims? This data science challenge will ask participants to predict the unemployment claims in Indiana using real world data. We preprocessed large, actual, granular datasets from our partner and we will stream them in real-time so that you can work with almost real-time data. This challenge will run for a week, offering participants the opportunity to learn while working with real-time data. There are multiple submission opportunities but only the two best submission count for the final scoring. The submission should contain predictive statistical models as well as visualizations. This long-term hack is a unique opportunity to help the society tackle the challenges of unemployment and help companies find the right talents that are out there. 
 
 
 If you sign-up to our platform, you can follow along about updates and new challenges. 
@@ -70,8 +70,6 @@ There are range of reasons why you should take up the challenge.
 * **Prizes**: Most of our challenges have prizes for the best individuals as well as the best teams. For example, in the Spring-Summer Challenge 2021 we will reward the top 5 submissions with Amazon giftcards. The rank will be based on the quality (accuracy) as well as the exploration effort/creativity of the participant submission. The total prize money varies and can range up to $5000. 
 * **Certificates**: Every participant will receive a digital certificate for participation with logos of the sponsors.
 * **Showcases**: We will share the best solutions on their website.
-* **Fellowship opportunity**: Selected participants will have the opportunity to discuss a fellowship at RCODI
-* **Publication**: The winners of the award will be invited to co-publish a paper with the IronHacks team
 * **Learning experience**: As we have learned from prior participants, the iterative IronHacks  process (see more [here](www.ironhacks.com)) combined with the tools and features of the IronHacks platform offers a unique learning experience that is distinct from those you might have experienced on other sites (e.g. Kaggle.com)
 
 And **do not forget** - your contribution is essential to fight this pandemic. 
