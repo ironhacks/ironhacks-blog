@@ -1,8 +1,8 @@
 ---
-title: COVID-19 Data Science Challenges 2022
-subtitle: A Series of Global COVID-19 Data Science Challenges
+title: Hack the Recovery Data Science Challenge 2022
+subtitle: A Series of Global Data Science Challenges
 # Summary for listings and search engines
-summary: A Series of Global COVID-19 Data Science Challenges
+summary: A Series of Global Data Science Challenges
 # Date published
 date: "2020-12-13T00:00:00Z"
 # Date updated
@@ -21,8 +21,8 @@ image:
 authors:
 - admin
 tags:
-- Protect Purdue
-- COVID-19
+- IronHacks
+- unemployment
 categories:
 - Hacks
 ---
