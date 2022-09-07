@@ -31,33 +31,28 @@ categories:
 
 In 2020, the IronHacks team launched the COVID-19 Data Science Challenges as a unique opportunities for aspiring data scientists to "hack the pandemic". With the lockdown starting in 2020, COVID-19 has impacted our daily lives and social activity. The August 2020, Fall 2020 and Fall 2021 data science challenges encouraged data scientists at Purdue and other institutions to help governments and corporations understand the economic and social impact of COVID-19 in 2020. You can read more about those challenges [here](https://blog.ironhacks.com/hacks/2020-10-01-protect-purdue-hack/). Now in 2022, as the economy heads towards recovery, predicting unemployment becomes more important than ever to analyze people that are still left behind. 
 
-In 2022, as citizens get vaccinated and governmental restrictions are lifted, citizens have started to increase their social activity: they start to travel, visit stores to shop, eat out, and attend public events like football games. These activities have opened up a variety of jobs. We have decided to continue our data science challenges in 2021, inviting people with data science interest and skills to solve cloud-based data science challenges. IronHacks will run multiple challenges on important topics like predicting visits at restaurants in densily populated counties in Indiana, monitoring vaccination levels, and so on. 
+In 2022, as citizens get vaccinated and governmental restrictions are lifted, citizens have started to increase their social activity: they start to travel, visit stores to shop, eat out, and attend public events like football games. These activities have opened up a variety of jobs. Indiana Department of Workforce Development (DWD) now partners with IronHacks to provide you will real world data in Indiana to predict the unemployment trend in the area. 
 
 ## **What is Hack the Recovery about?**
 
-We have currently planned to run two challenges: 
+The hack is all about monitoring and cmparing unemployment levels in the state of Indiana. Wondering about the profiles of the people who are likely to make unemployment claims? This data science challenge will ask participants to predict the unemployment claims in Indiana using real world data. We preprocessed large, actual, granular datasets from our partner and we will stream them in real-time so that you can work with almost real-time data. This challenge will run for a week, offering participants the opportunity to learn while working with real-time data. There are multiple submission opportunities but only the two best submission count for the final scoring. The submission should contain predictive statistical models as well as visualizations. This long-term hack is a unique opportunity to help the society tackle the challenges of unemployment and help companies find the right talents that are out there. 
 
-1. **COVID-19 Data Science Challenge Spring-Summer 2021**: Predicting visits at restaurants in Tippecanoe and Marion County, Indiana using real-time data. 
-Wondering if and where you should eat out when visiting Indianpolis or Purdue University? This data science challenge will ask participants to predict the weekly foot traffic at restaurants in Tippecanoe and Marion County, Indiana. We preprocessed large, actual, granular datasets from our partners (e.g. [SafeGraph](http://safegraph.com)) and we will stream them in real-time so that you can work with almost real-time data. This is challenge that will run for 2 months offering participants the opportunity learn while working with real-time data. There are multiple submission opportunities but only the two best submission count for the final scoring. The submission should contain predictive statistical models as well as visualizations. This long-term hack is a unique opportunity to help citizens like as well as owners of small business and governments make critical decisions. 
-2. **COVID-19 Data Science Challenge Summer 2021**: Monitoring and Comparing Unemployment Levels in the State of Indiana. 
 
 If you sign-up to our platform, you can follow along about updates and new challenges. 
 
 ## **How will participants be evaluated?**
 In past competitions, each participant's notebook was evaluated in several dimensions with a focus on learning, exploration and creativity. So in this respect IronHacks is different from other competitions that are only focused on performance only.  Examples are:
 - The **accuracy** of your analysis (e.g. the prediction accuray measured with the mean squared error or the correct descriptive analysis for a simpler challenge). 
-- Your **learning effort** and creativity in **exploring** a variety of different data and modles 
+- Your **learning effort** and creativity in **exploring** a variety of different data and models
 - The **usefulness** of the presentation and interpretation of your data/models in a final interactive report (including data visualization)
 
 More details on the evaluation criteria will be released at the start of the competition.
 
 ## What is the timeline?
 
-### Data Science Challenge Spring-Summer 2021
-This challenge opens for registration on Spring 2021. There are multiple submission opportunities, at which your solution will be scored in real-time. The last date to accept the rules is June 2, 2021.  More details can be found after the registration to the challenge on www.ironhacks.com 
+### Hack the Recoery
+This challenge opens for registration on September 2022. There are multiple submission opportunities, at which your solution will be scored in real-time. The last date to accept the rules is 30 September, 2022.  More details can be found after the registration to the challenge on www.ironhacks.com 
 
-### Data Science Challenge Summer 2021
-This challenge will opens in the beginning of June and will run for at least 4 weeks. This challenge will be set-up in collaboration with the department of workforce development and will focus on unemployment trends.
 
 ## Who is eligible? 
 
