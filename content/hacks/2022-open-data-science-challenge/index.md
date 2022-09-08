@@ -54,7 +54,7 @@ More details on the evaluation criteria will be released at the start of the com
 
 ## What is the timeline?
 
-### Hack the Recoery
+### Hack the Recovery
 This challenge opens for registration on November 2022. There are multiple submission opportunities, at which your solution will be scored in real-time. The last date to accept the rules is 15 November, 2022.  More details can be found after the registration to the challenge on www.ironhacks.com 
 
 
