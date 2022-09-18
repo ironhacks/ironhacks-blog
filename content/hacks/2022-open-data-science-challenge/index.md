@@ -33,7 +33,7 @@ In 2022, as citizens get vaccinated and governmental restrictions are lifted, ci
 
 IronHacks is different from a typical 24 hours - 48 hours hackathon. You will have 3 weeks time to develop your model. The evaluation style of IronHacks allows you to make changes to your models in multiple sprints (phases). You will get to submit several times before the hack ends to get feedback on your performance in the hack. 
 
-## **What is Hack the Recovery about?**
+## **Your Tasks in Hack the Recovery**
 
 The hack is all about monitoring and comparing unemployment levels in the state of Indiana. Wondering about the profiles of the people who are likely to make unemployment claims? This data science challenge will ask participants to predict the unemployment claims in Indiana using real world data. We preprocessed large, actual, granular datasets from our partner and we will stream them in real-time so that you can work with almost real-time data.  The submission should contain predictive statistical models that you have tried.
 
@@ -67,11 +67,11 @@ So what are you waiting for?
 
 ## Why should you participate?
 
-There are range of reasons why you should take up the challenge. 
+There are range of benefits for participating in the challenge. 
 
 * **Prizes**: Most of our challenges have prizes for the best individuals as well as the best teams. For example, in the Spring-Summer Challenge 2021 we will reward the top 5 submissions with Amazon giftcards. The rank will be based on the quality (accuracy) as well as the exploration effort/creativity of the participant submission. The total prize money varies and can range up to $5000. 
 * **Certificates**: Every participant will receive a digital certificate for participation with logos of the sponsors.
-* **Portfolio**: Looking for a job? Your work in this hack will showcase your problem-solving abilities. What's more valuable to employers than being able to solve real-world problems creatively? 
+* **Jobs Ready**: Looking for a job? Your work in this hack can be a portfolio that showcases your problem-solving abilities. What's more valuable to employers than being able to solve real-world problems creatively? 
 * **Showcases**: We will share the winning solutions on the website.
 * **Learning experience**: As we have learned from prior participants, the iterative IronHacks  process (see more [here](www.ironhacks.com)) combined with the tools and features of the IronHacks platform offers a unique learning experience that is distinct from those you might have experienced on other sites (e.g. Kaggle.com)
 
