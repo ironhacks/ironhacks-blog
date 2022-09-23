@@ -1,12 +1,12 @@
 ---
-title: 2022 - Hack the Recovery Data Science Challenge 2022
+title: Hack the Recovery Data Science Challenge 2022
 subtitle: A Series of Global Data Science Challenges
 # Summary for listings and search engines
 summary: A Series of Global Data Science Challenges
 # Date published
-date: "2020-12-13T00:00:00Z"
+date: "2022-09-21T00:00:00Z"
 # Date updated
-lastmod: "2020-12-13T00:00:00Z"
+lastmod: "2022-09-23T00:00:00Z"
 # Is this an unpublished draft?
 draft: false
 # Show this page in the Featured widget?
