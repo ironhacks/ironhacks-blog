@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Data Science Challenges 2021
+title: 2021 - COVID-19 Data Science Challenges 2021
 subtitle: A Series of Global COVID-19 Data Science Challenges
 # Summary for listings and search engines
 summary: A Series of Global COVID-19 Data Science Challenges
