@@ -1,5 +1,5 @@
 ---
-title: Hack the Recovery Data Science Challenge 2022
+title: 2022 - Hack the Recovery Data Science Challenge 2022
 subtitle: A Series of Global Data Science Challenges
 # Summary for listings and search engines
 summary: A Series of Global Data Science Challenges
