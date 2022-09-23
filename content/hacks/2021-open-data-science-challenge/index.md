@@ -1,12 +1,12 @@
 ---
-title: 2021 - COVID-19 Data Science Challenges 2021
+title: COVID-19 Data Science Challenges 2021
 subtitle: A Series of Global COVID-19 Data Science Challenges
 # Summary for listings and search engines
 summary: A Series of Global COVID-19 Data Science Challenges
 # Date published
-date: "2020-12-13T00:00:00Z"
+date: "2021-10-13T00:00:00Z"
 # Date updated
-lastmod: "2020-12-13T00:00:00Z"
+lastmod: "2021-10-13T00:00:00Z"
 # Is this an unpublished draft?
 draft: false
 # Show this page in the Featured widget?
