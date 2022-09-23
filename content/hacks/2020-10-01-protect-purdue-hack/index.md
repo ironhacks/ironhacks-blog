@@ -1,5 +1,5 @@
 ---
-title: Fall 2020 Protect Purdue Hack
+title: 2020 - Fall 2020 Protect Purdue Hack
 subtitle: A Series of Global COVID-19 Data Science Challenges
 
 # Summary for listings and search engines
