@@ -1,6 +1,5 @@
 ---
 title: Hacks
-subtitle: Recent and Upcoming Hacks
 cms_exclude: true
 
 # View.
