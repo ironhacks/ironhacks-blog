@@ -33,6 +33,8 @@ In 2022, as citizens get vaccinated and governmental restrictions are lifted, ci
 
 IronHacks is different from a typical 24 hours - 48 hours hackathon. You will have 3 weeks time to develop your model. The evaluation style of IronHacks allows you to make changes to your models in multiple sprints (phases). You will get to submit several times before the hack ends to get feedback on your performance in the hack. 
 
+Check out the [winning solutions from the past hacks here](https://ironhacks.github.io/showcase-fall-2020/). You could be the next award-winning data scientist in tackling unemployment challenges. 
+
 ## **Your Tasks in Hack the Recovery**
 
 The hack is all about monitoring and comparing unemployment levels in the state of Indiana. Wondering about the profiles of the people who are likely to make unemployment claims? This data science challenge will ask participants to predict the unemployment claims in Indiana using real world data. We preprocessed large, actual, granular datasets from our partner and we will stream them in real-time so that you can work with almost real-time data.  The submission should contain predictive statistical models that you have tried.
