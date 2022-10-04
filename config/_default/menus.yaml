@@ -16,3 +16,6 @@ main:
   - name: Support & Collaboration
     url: "https://rcodi.org/get-involved/"
     weight: 65
+  - name: Showcase
+    url: "/showcase"
+    weight: 75
