@@ -5,14 +5,14 @@
 
 main:
   - name: IronHacks
-    url: 'https://ironhacks.com'
+    url: "https://ironhacks.com"
     weight: 10
   - name: Posts
-    url: '/post'
+    url: "/post"
     weight: 20
   - name: Hacks
-    url: '/hacks'
+    url: "/hacks"
     weight: 60
   - name: Support & Collaboration
-    url: 'https://rcodi.org/get-involved/'
+    url: "https://rcodi.org/get-involved/"
     weight: 65
