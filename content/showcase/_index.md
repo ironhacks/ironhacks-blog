@@ -25,3 +25,5 @@ focused on that. By using granular spatial and temporal data of places of intere
     on COVID-19 had fascinating results from participants who developed insightful
     models by creatively interpreting granular data supplied to them. Shown here
     are the top five data visualizations from our Fall 2020 hack.
+    
+   ## [1'st Place](https://dev.ironhacks.com/notebook-viewer?path=https://raw.githubusercontent.com/ironhacks/showcase-fall-2020/main/0EVSeUky0uambfnlYXA1818dMPv1/report.ipynb)
