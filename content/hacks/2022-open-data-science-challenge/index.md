@@ -55,7 +55,7 @@ More details on the evaluation criteria will be released at the start of the com
 ## What is the timeline?
 
 ### Hack the Recovery
-This challenge opens for registration on mid October 2022. The last date to accept the rules is 3rd November, 2022.  More details can be found after the registration to the challenge on www.ironhacks.com 
+This challenge opens for registration on mid October 2022. The last date to accept the rules is beginning of  November, 2022.  More details can be found after the registration to the challenge on www.ironhacks.com 
 
 
 ## Who is eligible? 
