@@ -26,8 +26,8 @@ focused on that. By using granular spatial and temporal data of places of intere
     models by creatively interpreting granular data supplied to them. Shown here
     are the top five data visualizations from our Fall 2020 hack.
     
-   ## [1'st Place](https://dev.ironhacks.com/notebook-viewer?path=https://raw.githubusercontent.com/ironhacks/showcase-fall-2020/main/0EVSeUky0uambfnlYXA1818dMPv1/report.ipynb)
-   ## [2'nd Place](https://dev.ironhacks.com/notebook-viewer?path=https://raw.githubusercontent.com/ironhacks/showcase-fall-2020/main/88J3BjodkuTeA5CDI9pCjgRBvVK2/report.ipynb)
-   ## [3'rd Place](https://dev.ironhacks.com/notebook-viewer?path=https://ironhacks.github.io/showcase-fall-2020/WBEUElsXJxPHlUSc547FJXPgqXC3/index.html)
-   ## [4'th Place](https://dev.ironhacks.com/notebook-viewer?path=https://ironhacks.github.io/showcase-fall-2020/jCylponcfuTQ5hYOwZCJLifnxbX2/index.html)
-   ## [5'th Place](https://dev.ironhacks.com/notebook-viewer?path=https://raw.githubusercontent.com/ironhacks/showcase-fall-2020/main/xC9YYQVbbOMczLOB8CvIxdODyLw1/report.ipynb)
+   * [1'st Place](https://dev.ironhacks.com/notebook-viewer?path=https://raw.githubusercontent.com/ironhacks/showcase-fall-2020/main/0EVSeUky0uambfnlYXA1818dMPv1/report.ipynb)
+   * [1'st Place](https://dev.ironhacks.com/notebook-viewer?path=https://raw.githubusercontent.com/ironhacks/showcase-fall-2020/main/88J3BjodkuTeA5CDI9pCjgRBvVK2/report.ipynb)
+   * [3'rd Place](https://dev.ironhacks.com/notebook-viewer?path=https://ironhacks.github.io/showcase-fall-2020/WBEUElsXJxPHlUSc547FJXPgqXC3/index.html)
+   * [4'th Place](https://dev.ironhacks.com/notebook-viewer?path=https://ironhacks.github.io/showcase-fall-2020/jCylponcfuTQ5hYOwZCJLifnxbX2/index.html)
+   * [5'th Place](https://dev.ironhacks.com/notebook-viewer?path=https://raw.githubusercontent.com/ironhacks/showcase-fall-2020/main/xC9YYQVbbOMczLOB8CvIxdODyLw1/report.ipynb)
