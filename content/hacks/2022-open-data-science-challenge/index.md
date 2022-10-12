@@ -27,21 +27,21 @@ categories:
 - Hacks
 ---
 
-## **Why Hack the Recovery?**
+## **Hacking Unemployment**
 
-In 2022, as citizens get vaccinated and governmental restrictions are lifted, citizens have started to increase their social activities. These activities have opened up a variety of jobs. As the economy heads towards a strong recovery, predicting unemployment becomes more important than ever to analyze people that are still left behind. [Indiana Department of Workforce Development (DWD)](https://www.in.gov/dwd/) now partners with IronHacks to provide you will real world data in Indiana to predict the unemployment trend in the area. To eliminate the impact of unemployment on individuals and the society, governments and corporations need to understand how much and where people are most economically impacted. 
+In 2022, the global economy is facing a variety of difficulties, and there is a risk that unemployment may rise again. Therefore, predicting unemployment becomes more important than ever to analyze. [Indiana Department of Workforce Development (DWD)](https://www.in.gov/dwd/) now partners with IronHacks to provide you will real world data in Indiana to predict the unemployment trend in the area. To eliminate the impact of unemployment on individuals and the society, governments and corporations need to understand how much and where people are most economically impacted. 
 
 IronHacks is different from a typical 24 hours - 48 hours hackathon. You will have 3 weeks time to develop your model. The evaluation style of IronHacks allows you to make changes to your models in multiple sprints (phases). You will get to submit several times before the hack ends to get feedback on your performance in the hack. 
 
-Check out the <a href="https://ironhacks.com/hacks/showcase" style="color: black; text-decoration: underline; text-decoration-style: solid;">showcases from the Fall 2020 IronHack here</a>. You could be the next award-winning data scientist in tackling unemployment challenges. 
+Check out the <a href="https://ironhacks.github.io/showcase-fall-2020/" style="color: black; text-decoration: underline; text-decoration-style: solid;">showcases from the Fall 2020 IronHack here</a>. You could be the next award-winning data scientist in tackling unemployment challenges. 
 
-## **Your Tasks in Hack the Recovery**
+## **Your Tasks in Hacking Unemployment**
 
 The hack is all about monitoring and comparing unemployment levels in the state of Indiana. Wondering about the profiles of the people who are likely to make unemployment claims? This data science challenge will ask participants to predict the unemployment claims in Indiana using real world data. We preprocessed large, actual, granular datasets from our partner and we will stream them in real-time so that you can work with almost real-time data.  The submission should contain predictive statistical models that you have tried.
 
 We ask you to predict the number of unemployment claims using historical data provided by DWD, as well as demographics data. The data are **unique**: they are big, they are granular, and they are real, and **streamed** in real-time. You are given variables such as race, education, categories of employers, week number, etc. Your task is to predict the total unemployment claims for a specific census tract in Indiana in a specific week. Using such data, your predictions will inform citizens as well as decision-makers like the State of Indiana, the Department of Workforce Development, and others about the potential impact of unemployment to the state. 
 
-Note: Even if you are not an expert in modeling temporal data at the start of the competition you should not shy away from participation. A visual inspection of the data and some data exploration analysis (DEA) will indicate that even a simple model may offer a good starting point. To make it up to the highest rank of the participants, we encourage you to explore and try different models! This is a fantastic learning opportunity.
+Note: Even if you are not an expert in modeling temporal data at the start of the competition you should not shy away from participation. A visual inspection of the data and some exploratory data analysis (EDA) will indicate that even a simple model may offer a good starting point. To make it up to the highest rank of the participants, we encourage you to explore and try different models! This is a fantastic learning opportunity.
 
 
 ## **How will participants be evaluated?**
@@ -54,8 +54,8 @@ More details on the evaluation criteria will be released at the start of the com
 
 ## What is the timeline?
 
-### Hack the Recovery
-This challenge opens for registration on mid October 2022. The last date to accept the rules is beginning of  November, 2022.  More details can be found after the registration to the challenge on www.ironhacks.com 
+### Hacking Unemployment
+This challenge opens for registration on mid October 2022. The last date to accept the rules is 3rd November, 2022.  More details can be found after the registration to the challenge on www.ironhacks.com 
 
 
 ## Who is eligible? 
