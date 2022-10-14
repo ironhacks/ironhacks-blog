@@ -71,7 +71,7 @@ So what are you waiting for?
 
 There are range of benefits for participating in the challenge. 
 
-* **Prizes**: Most of our challenges have prizes for the best individuals as well as the best teams. In the Fall 2022 Challenge, we will reward the top 5 submissions with Amazon giftcards. The rank will be based on the quality (accuracy) as well as the exploration effort/creativity of the participant submission. The total prize money varies and can range up to $2000. 
+* **Prizes**: Most of our challenges have prizes for the best individuals as well as the best teams. In the Fall 2022 Challenge, we will reward the top 5 submissions with Amazon giftcards. The rank will be based on the quality (accuracy) as well as the exploration effort/creativity of the participant submission. In the past, the total prize money varies and can range up to $10,000. 
 * **Certificates**: Every participant will receive a digital certificate for participation with logos of the sponsors.
 * **Jobs Ready**: Looking for a job? Your work in this hack can be a portfolio that showcases your problem-solving abilities. What's more valuable to employers than being able to solve real-world problems creatively? 
 * **Showcases**: We will share the winning solutions on the website.
