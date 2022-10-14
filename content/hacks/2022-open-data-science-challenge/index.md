@@ -55,7 +55,7 @@ More details on the evaluation criteria will be released at the start of the com
 ## What is the timeline?
 
 ### Hacking Unemployment
-This challenge opens for registration on mid October 2022. The last date to accept the rules is 3rd November, 2022.  More details can be found after the registration to the challenge on www.ironhacks.com 
+This challenge opens for registration on October 21, 2022. The hack will start on November 1, 2022, and registration will close on November 5, 2022. The hack will end on November 21, 2022 with 3 mandatory submissions every week on Monday.  Winners will be announced first week of December. More details can be found after the registration to the challenge on www.ironhacks.com. 
 
 
 ## Who is eligible? 
@@ -71,7 +71,7 @@ So what are you waiting for?
 
 There are range of benefits for participating in the challenge. 
 
-* **Prizes**: Most of our challenges have prizes for the best individuals as well as the best teams. For example, in the Spring-Summer Challenge 2021 we will reward the top 5 submissions with Amazon giftcards. The rank will be based on the quality (accuracy) as well as the exploration effort/creativity of the participant submission. The total prize money varies and can range up to $5000. 
+* **Prizes**: Most of our challenges have prizes for the best individuals as well as the best teams. In the Fall 2022 Challenge, we will reward the top 5 submissions with Amazon giftcards. The rank will be based on the quality (accuracy) as well as the exploration effort/creativity of the participant submission. The total prize money varies and can range up to $2000. 
 * **Certificates**: Every participant will receive a digital certificate for participation with logos of the sponsors.
 * **Jobs Ready**: Looking for a job? Your work in this hack can be a portfolio that showcases your problem-solving abilities. What's more valuable to employers than being able to solve real-world problems creatively? 
 * **Showcases**: We will share the winning solutions on the website.
