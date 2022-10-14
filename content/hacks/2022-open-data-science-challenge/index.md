@@ -33,7 +33,7 @@ In 2022, the global economy is facing a variety of difficulties, and there is a 
 
 IronHacks is different from a typical 24 hours - 48 hours hackathon. You will have 3 weeks time to develop your model. The evaluation style of IronHacks allows you to make changes to your models in multiple sprints (phases). You will get to submit several times before the hack ends to get feedback on your performance in the hack. 
 
-Check out the <a href="https://ironhacks.github.io/showcase-fall-2020/" style="color: black; text-decoration: underline; text-decoration-style: solid;">showcases from the Fall 2020 IronHack here</a>. You could be the next award-winning data scientist in tackling unemployment challenges. 
+Check out the <a href="https://blog.ironhacks.com/showcase/" style="color: black; text-decoration: underline; text-decoration-style: solid;">showcases from the Fall 2020 IronHack here</a>. You could be the next award-winning data scientist in tackling unemployment challenges. 
 
 ## **Your Tasks in Hacking Unemployment**
 
