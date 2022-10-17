@@ -27,89 +27,97 @@ categories:
 - Hacks
 ---
 
-## **Hacking Unemployment**
+## The Fall 2022 IronHacks Training Challenge
 
-In 2022, the global economy is facing a variety of difficulties, and there is a risk that unemployment may rise again. Therefore, predicting unemployment becomes more important than ever to analyze. [Indiana Department of Workforce Development (DWD)](https://www.in.gov/dwd/) now partners with IronHacks to provide you will real world data in Indiana to predict the unemployment trend in the area. To eliminate the impact of unemployment on individuals and the society, governments and corporations need to understand how much and where people are most economically impacted. 
-
-IronHacks is different from a typical 24 hours - 48 hours hackathon. You will have 3 weeks time to develop your model. The evaluation style of IronHacks allows you to make changes to your models in multiple sprints (phases). You will get to submit several times before the hack ends to get feedback on your performance in the hack. 
-
-Check out the <a href="https://blog.ironhacks.com/showcase/" style="color: black; text-decoration: underline; text-decoration-style: solid;">showcases from the Fall 2020 IronHack here</a>. You could be the next award-winning data scientist in tackling unemployment challenges. 
-
-## **Your Tasks in Hacking Unemployment**
-
-The hack is all about monitoring and comparing unemployment levels in the state of Indiana. Wondering about the profiles of the people who are likely to make unemployment claims? This data science challenge will ask participants to predict the unemployment claims in Indiana using real world data. We preprocessed large, actual, granular datasets from our partner and we will stream them in real-time so that you can work with almost real-time data.  The submission should contain predictive statistical models that you have tried.
-
-We ask you to predict the number of unemployment claims using historical data provided by DWD, as well as demographics data. The data are **unique**: they are big, they are granular, and they are real, and **streamed** in real-time. You are given variables such as race, education, categories of employers, week number, etc. Your task is to predict the total unemployment claims for a specific census tract in Indiana in a specific week. Using such data, your predictions will inform citizens as well as decision-makers like the State of Indiana, the Department of Workforce Development, and others about the potential impact of unemployment to the state. 
-
-Note: Even if you are not an expert in modeling temporal data at the start of the competition you should not shy away from participation. A visual inspection of the data and some exploratory data analysis (EDA) will indicate that even a simple model may offer a good starting point. To make it up to the highest rank of the participants, we encourage you to explore and try different models! This is a fantastic learning opportunity.
+> Learn to use Jupyter Notebooks and BigQuery for exploratory data analysis using Indiana Department of Workforce Development data to predict unemployment claims in Indiana!
 
 
-## **How will participants be evaluated?**
-In past competitions, each participant's notebook was evaluated in several dimensions with a focus on learning, exploration and creativity. So in this respect IronHacks is different from other competitions that are only focused on performance only.  Examples are:
-- The **accuracy** of your analysis (e.g. the prediction accuray measured with the mean squared error or the correct descriptive analysis for a simpler challenge). 
-- Your **learning effort** and creativity in **exploring** a variety of different data and models
-- The **usefulness** of the presentation and interpretation of your data/models in a final interactive report.
+The IronHacks challenge runs for 4 weeks, so it is geared towards learning and iteration. This means that even if you are new to data science it is an excellent opportunity for you to get learn by doing! Further, this challenge focuses on a really important topic: predicting unemployment trend! 
 
-More details on the evaluation criteria will be released at the start of the competition.
+## The task and the data: Predicting unemployment claims in the State of Indiana using DWD data
 
-## What is the timeline?
+We ask you to predict the number of unemployment claims using historical data provided by DWD, as well as demographics data.  You are given variables such as race, education, categories of employers, week number, etc. Your task is to predict the total unemployment claims for a specific census tract in Indiana in a specific week. Using such data, your predictions will inform citizens as well as decision-makers like the State of Indiana, the Department of Workforce Development, and others about the potential impact of unemployment to the state.
 
-### Hacking Unemployment
-This challenge opens for registration on October 21, 2022. The hack will start on November 1, 2022, and registration will close on November 5, 2022. The hack will end on November 21, 2022 with 3 mandatory submissions every week on Monday.  Winners will be announced first week of December. More details can be found after the registration to the challenge on www.ironhacks.com. 
+## Your workspace
 
+During the competition, you will use the new IronHacks workspace that supports a fully integrated data science workflow: You will have access to a **JupyterLab**, a key, and libraries to query and analyze data from **BigQuery**. Our workspace supports Python, R, and Julia. **Please note: For this competition, you will only be using Python.**  Please check out the workspace by clicking on the workspace button in the right corner.  
 
-## Who is eligible? 
+## Accessing the data in BigQuery
+When you register for this new challenge,  you will be able to access a key in your [user profile](https://ironhacks.com/profile) that allows you to query the data using libraries in Python and some basic SQL. Our Tutorial #2, which will be available when registration opens, will tell you more about how to do that. We will release new keys in batches so it might take up to a day until you have access to a key! 
 
-Everybody who:
-1) speaks English 
-2) is older than 16 years and 
-3) has programming skills in **Python**. 
+## Your submission
 
-So what are you waiting for? 
+You will be asked to create a predictive statistical model that you can revise over time. You will be asked to produce and submit your results in a Jupyter notebook.  You can learn about the details of your submission in the task statement when it is released to all participants. You will have multiple opportunities for making a great submission. The task statement will detail the submission frequency and requirements, but generally, we strongly recommend you to submit often. 
 
-## Why should you participate?
+## Evaluation
 
-There are range of benefits for participating in the challenge. 
+Each participant's notebook will be evaluated  in two dimensions using objective metrics: 
 
-* **Prizes**: Most of our challenges have prizes for the best individuals as well as the best teams. In the Fall 2022 Challenge, we will reward the top 5 submissions with Amazon giftcards. The rank will be based on the quality (accuracy) as well as the exploration effort/creativity of the participant submission. In the past, the total prize money varies and can range up to $10,000. 
-* **Certificates**: Every participant will receive a digital certificate for participation with logos of the sponsors.
-* **Jobs Ready**: Looking for a job? Your work in this hack can be a portfolio that showcases your problem-solving abilities. What's more valuable to employers than being able to solve real-world problems creatively? 
-* **Showcases**: We will share the winning solutions on the website.
-* **Learning experience**: As we have learned from prior participants, the iterative IronHacks  process (see more [here](www.ironhacks.com)) combined with the tools and features of the IronHacks platform offers a unique learning experience that is distinct from those you might have experienced on other sites (e.g. Kaggle.com)
+* **Prediction accuracy** (your model’s MSPE and MAPE)
+* **Individual exploration and learning** (your effort to explore a variety of different models) 
 
-And **do not forget** - your contribution is essential to fight unemployment. 
+The evaluation metrics and logic will be detailed in the task statement once it has been published. Please also carefully read the Rules when the competition is open for registration. 
 
-This long-term hack is a unique opportunity to help the society tackle the challenges of unemployment and help companies find the right talents that are out there. With such predictions, you also have the opportunity to help the state and leaders to use the outcome of your models to monitor and predict economic impact. More details can be found in the task statement when it is released at the start of the competition.  
+## The process
 
----
+* **Registration and warm-up phase**: When you register for the hack, you will have the opportunity to warm-up using our tutorials. You will also access to a subset of the data that you can use to get familiar with the data you will be using in the challenge. Registration is planned to open soon and will remain open for a period of time for new participants to join (this registration window is dependent upon challenge criteria for each hack).
 
-## Check out what others are saying: 
+* **Your start of the Competition**: The competition starts with you accepting the Rules of the competition.  Once we have released the task, you have to accept the rules of the contest, access your competition key, and start querying BigQuery.
+ 
+ * **Multi-staged interim submission process**: After the release of the task, there are multiple submission opportunities over a six week period of time.  There are two submissions planned for each week so you can be scored two times for the same model focused on a particular week. We will get new data every week so you have the opportunity to tune your model every week further, as you get new data. 
 
-*"The excitement to know how my model would perform after every round kept me enthused till the end! These predictions can give insights into social distancing norms and implement necessary precautions."*
+We will create a Calendar for you to learn more about the dates and deadlines below.  
 
-**Feny Patel (Purdue University), 1st Place August 2020 Challenge**
-
-*"My greatest experience was being able to try on algorithms I never use. I also had the freedom to experiment, instead of defaulting to certain known models due to crunching code within 24 hours like typical hackathons."*
-
-**Harsha Pavuluri (Purdue University), 2nd Place August 2020 Challenge**
-
-<div class="center">
-  {{< cta cta_text="Sign Up Now" cta_link="https://ironhacks.com/login" cta_new_tab="true" >}}
-</div>
+| **Event**                                    | **Date/Time (EST)**                   |
+| -------------------------------------------- | -------------------------- |
+| Registration opens                           | October 21, 2022 6:00 pm  |
+| Task is released                             | October 22, 2022 6:00 pm  |
+| First Data Release                           | Nov 2, 2022 11:59 pm |
+| First submission opportunity | Nov 3, 2022 11:59 pm |
+| Submission opportunities | Every Thursday and every Saturday at 11:59 pm |
+| Mandatory submissions    | Every Monday at 11:59 pm | 
+| Update of database and updated target week for prediction | Every Tuesday at 12 pm |
+| Registration Ends | Nov 5, 2022 11:59 pm |
+| Last Mandatory Submission               | Nov 21, 2022 11:59 pm |
 
 
-<div style="display:flex; justify-content: center; padding: 1em 0">
-  {{< tw_tweet hashtag="IronHacks" >}}
-</div>
+## Skills and tutorials
 
-{{< tw_timeline source="https://twitter.com/__matt_harris__/lists/ironhacks-com-14752?ref_src=twsrc%5Etfw" >}}
+This fourth IronHacks is designed for participants with intermediate knowledge of statistics and Python. Beginners and more advanced users are also invited to participate. If you have never worked with Jupyter notebook, you can use the warm-up phase to practice. You will have access to check out the tutorials once registration is open. We will release more tutorials as needed. 
 
-----
+## Prizes and awards
 
-## What are you waiting for? Get started...
+In total, we will award several prizes with a total value up to **USD 2000** (to be confirmed). More details will be available in the upcoming Task Statement. 
 
-1. Sign-up on our **[platform](https://ironhacks.com)**.
+In addition, there are more additional benefits for you: 
 
-2. Register for the upcoming challenge. 
+* Certificate: Every participant will receive a digital certificate for participation with logos of the sponsors.
+* Showcases: We will publish selected models www.ironhacks.com at the end of the competition. In addition, our partners will also feature the best solutions on their website.
+* Learning experience: Based on what we have learned from the past, IronHacks will offer a great learning experience and practice for data scientists.
 
-3. Send us a note if you have questions **[here](<mailto:c562462b.groups.purdue.edu@amer.teams.ms>)**
+And **do not forget** - your work is essential to help us contribute to knowledge and solutions surrounding unemployment. 
+
+## Questions?
+
+After registration, just check out or leave a note in our forum! There you find announcements. You can also contact us by clicking on the "Get in touch" button in the upper right corner. 
+
+
+## Frequently Asked Questions (FAQ)
+
+* **Where can I find  the tutorial material if I missed a live tutorial?**
+You can find the recordings as well as our demo notebooks once registration has opened. 
+* **Where can I find recordings if I missed an info session?**
+Recordings of our weekly live sessions/info session will be posted in the forum as links to our [youtube channel](https://www.youtube.com/channel/UCBAB-PVEiB4YhHEDVW9WPWg). So we suggest you subscribe to this channel to have updated info about that!  
+* **How do I get access to the competition?**
+The IronHacks COVID-19 Challenge requires you to "get the task" and consent to the rules of the competition. Once you have provided consent to the scientific study accompanying this challenge you are eligible to participate. 
+* **How do I know when the deadline is for each submission?**
+Check out our calendar to learn more about the submission deadlines or post in the forum. 
+* **How do we access the data?**
+You can access the data with a key. You have to follow the instructions in tutorial #2 to use the key in a notebook.
+* **Where do I find my BigQuery key?**
+You can find the key in your user profile. Note that you need to be registered to access the key. 
+* **How do I contact the IronHacks Team?**
+You can post in the forum or send an email to [us](mailto:c562462b.groups.purdue.edu@amer.teams.ms)
+* **Can I create a team?**
+Most of the IronHacks challenges are individual challenges. There is always a prize for the Best Solution across the challenge. Details are discussed in the task. 
+
