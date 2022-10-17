@@ -32,7 +32,7 @@ categories:
 > Learn to use Jupyter Notebooks and BigQuery for exploratory data analysis using Indiana Department of Workforce Development data to predict unemployment claims in Indiana!
 
 
-The IronHacks challenge runs for 4 weeks, so it is geared towards learning and iteration. This means that even if you are new to data science it is an excellent opportunity for you to get learn by doing! Further, this challenge focuses on a really important topic: predicting unemployment trend! 
+The IronHacks challenge runs for 4 weeks, so it is geared towards learning and iteration. This means that even if you are new to data science it is an excellent opportunity for you to learn by doing! Further, this challenge focuses on a really important topic: predicting unemployment trend! 
 
 ## The task and the data: Predicting unemployment claims in the State of Indiana using DWD data
 
