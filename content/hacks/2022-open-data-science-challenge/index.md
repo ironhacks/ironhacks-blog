@@ -87,7 +87,7 @@ This fourth IronHacks is designed for participants with intermediate knowledge o
 
 ## Prizes and awards
 
-In total, we will award several prizes with a total value up to **USD 2000** (to be confirmed). More details will be available in the upcoming Task Statement. 
+For the past hacks, we award several prizes with a total value up to **USD 5000**. More details will be available in the upcoming Task Statement. 
 
 In addition, there are more additional benefits for you: 
 
