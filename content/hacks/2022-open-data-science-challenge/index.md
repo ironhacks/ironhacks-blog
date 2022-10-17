@@ -83,7 +83,7 @@ We will create a Calendar for you to learn more about the dates and deadlines be
 
 ## Skills and tutorials
 
-This fourth IronHacks is designed for participants with intermediate knowledge of statistics and Python. Beginners and more advanced users are also invited to participate. If you have never worked with Jupyter notebook, you can use the warm-up phase to practice. You will have access to check out the tutorials once registration is open. We will release more tutorials as needed. 
+This IronHacks is designed for participants with intermediate knowledge of statistics and Python. Beginners and more advanced users are also invited to participate. If you have never worked with Jupyter notebook, you can use the warm-up phase to practice. You will have access to check out the tutorials once registration is open. We will release more tutorials as needed. 
 
 ## Prizes and awards
 
