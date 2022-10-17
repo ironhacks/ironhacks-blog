@@ -64,7 +64,7 @@ The evaluation metrics and logic will be detailed in the task statement once it 
 
 * **Your start of the Competition**: The competition starts with you accepting the Rules of the competition.  Once we have released the task, you have to accept the rules of the contest, access your competition key, and start querying BigQuery.
  
- * **Multi-staged interim submission process**: After the release of the task, there are multiple submission opportunities over a six week period of time.  There are two submissions planned for each week so you can be scored two times for the same model focused on a particular week. We will get new data every week so you have the opportunity to tune your model every week further, as you get new data. 
+ * **Multi-staged interim submission process**: After the release of the task, there are multiple submission opportunities over a four weeks period of time.  There are three submissions planned for each week (one mandatory submission and two submission opportunities) so you can be scored three times for the same model focused on a particular week. We will get new data every week so you have the opportunity to tune your model every week further, as you get new data. 
 
 We will create a Calendar for you to learn more about the dates and deadlines below.  
 
