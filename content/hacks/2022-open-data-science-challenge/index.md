@@ -99,7 +99,7 @@ And **do not forget** - your work is essential to help us contribute to knowledg
 
 ## Questions?
 
-After registration at **[Ironhacks](https://ironhacks.com/)**, just check out or leave a note in our forum! There you find announcements. You can also contact us by clicking on the "Get in touch" button in the upper right corner. 
+After registration at **[www.ironhacks.com](https://ironhacks.com/)**, just check out or leave a note in our forum! There you find announcements. You can also contact us by clicking on the "Get in touch" button in the upper right corner. 
 
 
 ## Frequently Asked Questions (FAQ)
@@ -117,7 +117,7 @@ You can access the data with a key. You have to follow the instructions in tutor
 * **Where do I find my BigQuery key?**
 You can find the key in your user profile. Note that you need to be registered to access the key. 
 * **How do I contact the IronHacks Team?**
-You can post in the forum or send an email to [us](mailto:opendigital@purdue.edu)
+You can post in the forum or send an email to us at opendigital@purdue.edu
 * **Can I create a team?**
 No, Hack the Unemployment is an individual challenge. 
 
