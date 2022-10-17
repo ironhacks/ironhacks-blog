@@ -99,7 +99,7 @@ And **do not forget** - your work is essential to help us contribute to knowledg
 
 ## Questions?
 
-After registration at **[Ironhacks](URL "www.ironhacks.com")**, just check out or leave a note in our forum! There you find announcements. You can also contact us by clicking on the "Get in touch" button in the upper right corner. 
+After registration at **[Ironhacks](https://ironhacks.com/)**, just check out or leave a note in our forum! There you find announcements. You can also contact us by clicking on the "Get in touch" button in the upper right corner. 
 
 
 ## Frequently Asked Questions (FAQ)
