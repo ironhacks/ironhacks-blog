@@ -40,7 +40,7 @@ We ask you to predict the number of unemployment claims using historical data pr
 
 ## Your workspace
 
-During the competition, you will use the new IronHacks workspace that supports a fully integrated data science workflow: You will have access to a **JupyterLab**, a key, and libraries to query and analyze data from **BigQuery**. Our workspace supports Python, R, and Julia. **Please note: For this competition, you will only be using Python.**  Please check out the workspace by clicking on the workspace button in the right corner.  
+During the competition, you will use the new IronHacks workspace that supports a fully integrated data science workflow: You will have access to a **JupyterLab**, a key, and libraries to query and analyze data from **BigQuery**. **Please note: For this competition, you will only be using Python.**  Please check out the workspace by clicking on the workspace button in the right corner.  
 
 ## Accessing the data in BigQuery
 When you register for this new challenge,  you will be able to access a key in your [user profile](https://ironhacks.com/profile) that allows you to query the data using libraries in Python and some basic SQL. Our Tutorial #2, which will be available when registration opens, will tell you more about how to do that. We will release new keys in batches so it might take up to a day until you have access to a key! 
@@ -87,7 +87,7 @@ This IronHacks is designed for participants with intermediate knowledge of stati
 
 ## Prizes and awards
 
-For the past hacks, we award several prizes with a total value up to **USD 5000**. More details will be available in the upcoming Task Statement. 
+For the Fall 2022 hacks, we award several prizes with a total value up to **USD 2000**. More details will be available in the upcoming Task Statement. 
 
 In addition, there are more additional benefits for you: 
 
@@ -109,7 +109,7 @@ You can find the recordings as well as our demo notebooks once registration has 
 * **Where can I find recordings if I missed an info session?**
 Recordings of our weekly live sessions/info session will be posted in the forum as links to our [youtube channel](https://www.youtube.com/channel/UCBAB-PVEiB4YhHEDVW9WPWg). So we suggest you subscribe to this channel to have updated info about that!  
 * **How do I get access to the competition?**
-The IronHacks COVID-19 Challenge requires you to "get the task" and consent to the rules of the competition. Once you have provided consent to the scientific study accompanying this challenge you are eligible to participate. 
+Hack the Unemployment Challenge requires you to consent to the rules of the competition. Once you have provided consent to the scientific study accompanying this challenge you are eligible to participate. 
 * **How do I know when the deadline is for each submission?**
 Check out our calendar to learn more about the submission deadlines or post in the forum. 
 * **How do we access the data?**
@@ -117,7 +117,7 @@ You can access the data with a key. You have to follow the instructions in tutor
 * **Where do I find my BigQuery key?**
 You can find the key in your user profile. Note that you need to be registered to access the key. 
 * **How do I contact the IronHacks Team?**
-You can post in the forum or send an email to [us](mailto:c562462b.groups.purdue.edu@amer.teams.ms)
+You can post in the forum or send an email to [us](mailto:opendigital@purdue.edu)
 * **Can I create a team?**
-Most of the IronHacks challenges are individual challenges. There is always a prize for the Best Solution across the challenge. Details are discussed in the task. 
+No, Hack the Unemployment is an individual challenge. 
 
