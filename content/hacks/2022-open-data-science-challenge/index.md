@@ -107,7 +107,7 @@ After registration at **[www.ironhacks.com](https://ironhacks.com/)**, just chec
 * **Where can I find  the tutorial material if I missed a live tutorial?**
 You can find the recordings as well as our demo notebooks once registration has opened. 
 * **Where can I find recordings if I missed an info session?**
-Recordings of our weekly live sessions/info session will be posted in the forum as links to our [youtube channel](https://www.youtube.com/channel/UCBAB-PVEiB4YhHEDVW9WPWg). So we suggest you subscribe to this channel to have updated info about that!  
+Recordings of our weekly live sessions/info session will be posted in the forum as links to our **[youtube channel here](https://www.youtube.com/channel/UCBAB-PVEiB4YhHEDVW9WPWg)**. So we suggest you subscribe to this channel to have updated info about that!  
 * **How do I get access to the competition?**
 Hack the Unemployment Challenge requires you to consent to the rules of the competition. Once you have provided consent to the scientific study accompanying this challenge you are eligible to participate. 
 * **How do I know when the deadline is for each submission?**
@@ -117,5 +117,5 @@ You have to follow the instructions in tutorial #2 to access the data in a noteb
 * **How do I contact the IronHacks Team?**
 You can post in the forum or send an email to us at opendigital@purdue.edu
 * **Can I create a team?**
-No, Hack the Unemployment is an individual challenge. 
+No, hacking unemploynment is an individual challenge. 
 
