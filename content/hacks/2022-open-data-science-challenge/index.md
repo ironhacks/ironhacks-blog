@@ -34,9 +34,9 @@ categories:
 
 The IronHacks challenge runs for 4 weeks, so it is geared towards learning and iteration. This means that even if you are new to data science it is an excellent opportunity for you to learn by doing! Further, this challenge focuses on a really important topic: predicting unemployment trend! 
 
-## The task and the data: Predicting unemployment claims in the State of Indiana using DWD data
+## The task and the data: Predicting unemployment claims in the State of Indiana using Department of Workforce Development (DWD) data
 
-We ask you to predict the number of unemployment claims using historical data provided by DWD, as well as demographics data.  You are given variables such as race, education, categories of employers, week number, etc. Your task is to predict the total unemployment claims for a specific census tract in Indiana in a specific week. Using such data, your predictions will inform citizens as well as decision-makers like the State of Indiana, the Department of Workforce Development, and others about the potential impact of unemployment to the state.
+We ask you to predict the number of unemployment claims using historical data provided by Department of Workforce Development (DWD), as well as demographics data.  You are given variables such as race, education, categories of employers, week number, etc. Your task is to predict the total unemployment claims for a specific census tract in Indiana in a specific week. Using such data, your predictions will inform citizens as well as decision-makers like the State of Indiana, the Department of Workforce Development, and others about the potential impact of unemployment to the state.
 
 ## Your workspace
 
@@ -113,9 +113,7 @@ Hack the Unemployment Challenge requires you to consent to the rules of the comp
 * **How do I know when the deadline is for each submission?**
 Check out our calendar to learn more about the submission deadlines or post in the forum. 
 * **How do we access the data?**
-You can access the data with a key. You have to follow the instructions in tutorial #2 to use the key in a notebook.
-* **Where do I find my BigQuery key?**
-You can find the key in your user profile. Note that you need to be registered to access the key. 
+You have to follow the instructions in tutorial #2 to access the data in a notebook.
 * **How do I contact the IronHacks Team?**
 You can post in the forum or send an email to us at opendigital@purdue.edu
 * **Can I create a team?**
