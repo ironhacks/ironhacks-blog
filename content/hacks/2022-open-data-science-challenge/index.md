@@ -43,7 +43,7 @@ We ask you to predict the number of unemployment claims using historical data pr
 During the competition, you will use the new IronHacks workspace that supports a fully integrated data science workflow: You will have access to a **JupyterLab**, a key, and libraries to query and analyze data from **BigQuery**. **Please note: For this competition, you will only be using Python.**  Please check out the workspace by clicking on the workspace button in the right corner.  
 
 ## Accessing the data in BigQuery
-When you [register](https://ironhacks.com/hacks/fall-2022) for this new challenge,  you will be able to access a key in your [user profile](https://ironhacks.com/profile) that allows you to query the data using libraries in Python and some basic SQL. Our Tutorial #2, which will be available when [registration](https://ironhacks.com/hacks/fall-2022) opens, will tell you more about how to do that. We will release new keys in batches so it might take up to a day until you have access to a key! 
+Our Tutorial #2, which will be available when registration at [ironhacks.com/hacks/fall-2022/register](https://ironhacks.com/hacks/fall-2022) opens, will tell you more about how to query the data. We will release new keys in batches so it might take up to a day until you have access to a key! 
 
 ## Your submission
 
@@ -56,13 +56,13 @@ Each participant's notebook will be evaluated  in two dimensions using objective
 * **Prediction accuracy** (your model’s MSPE and MAPE)
 * **Individual exploration and learning** (your effort to explore a variety of different models) 
 
-The evaluation metrics and logic will be detailed in the task statement once it has been published. Please also carefully read the (Rules)[https://ironhacks.com/hacks/fall-2022/rules] when the competition is open for (registration)[https://ironhacks.com/hacks/fall-2022]. 
+The evaluation metrics and logic will be detailed in the task statement once it has been published. Please also carefully read the rules at (ironhacks.com/hacks/fall-2022/rules)[https://ironhacks.com/hacks/fall-2022/rules] when the competition is open for registration at (ironhacks.com/hacks/fall-2022/register)[https://ironhacks.com/hacks/fall-2022/register]. 
 
 ## The process
 
-* **Registration and warm-up phase**: When you register for the hack, you will have the opportunity to warm-up using our tutorials. You will also access to a subset of the data that you can use to get familiar with the data you will be using in the challenge. See the table below or the Calendar on the Ironhacks (website)[https://ironhacks.com/] for (registration)[https://ironhacks.com/hacks/fall-2022] times.
+* **Registration and warm-up phase**: When you register for the hack, you will have the opportunity to warm-up using our tutorials. You will also access to a subset of the data that you can use to get familiar with the data you will be using in the challenge. See the table below or the calendar on the IronHacks website when you register at (ironhacks.com/hacks/fall-2022/register)[https://ironhacks.com/hacks/fall-2022/register].
 
-* **Your start of the Competition**: The competition starts with you accepting the (Rules)[https://ironhacks.com/hacks/fall-2022/rules] of the competition.  Once we have released the task, you have to accept the (rules)[https://ironhacks.com/hacks/fall-2022/rules] of the contest, access your competition key, and start querying BigQuery.
+* **Your start of the Competition**: The competition starts with you accepting the rules (ironhacks.com/hacks/fall-2022/rules)[https://ironhacks.com/hacks/fall-2022/rules] of the competition.  Once we have released the task, you can start querying BigQuery.
  
  * **Multi-staged interim submission process**: After the release of the task, there are multiple submission opportunities over a four weeks period of time.  There are three submissions planned for each week (one mandatory submission and two submission opportunities) so you can be scored three times for the same model focused on a particular week. We will get new data every week so you have the opportunity to tune your model every week further, as you get new data. 
 
@@ -83,7 +83,7 @@ We will create a Calendar for you to learn more about the dates and deadlines be
 
 ## Skills and tutorials
 
-This IronHacks is designed for participants with intermediate knowledge of statistics and Python. Beginners and more advanced users are also invited to participate. If you have never worked with Jupyter notebook, you can use the warm-up phase to practice. You will have access to check out the tutorials once (registration)[https://ironhacks.com/hacks/fall-2022] is open. We will release more tutorials as needed. 
+This IronHacks is designed for participants with intermediate knowledge of statistics and Python. Beginners and more advanced users are also invited to participate. If you have never worked with Jupyter notebook, you can use the warm-up phase to practice. You will have access to check out the tutorials once registration at (ironhacks.com/hacks/fall-2022/register)[https://ironhacks.com/hacks/fall-2022/register] is open. We will release more tutorials as needed. 
 
 ## Prizes and awards
 
@@ -99,13 +99,13 @@ And **do not forget** - your work is essential to help us contribute to knowledg
 
 ## Questions?
 
-After registration at **[www.ironhacks.com](https://ironhacks.com/)**, just check out or leave a note in our forum! There you find announcements. You can also contact us by clicking on the "Get in touch" button in the upper right corner. 
+After registration at **[ironhacks.com/hacks/fall-2022/register](https://ironhacks.com/hacks/fall-2022/register)**, just check out or leave a note in our forum! There you find announcements. You can also contact us by clicking on the "Get in touch" button in the upper right corner. 
 
 
 ## Frequently Asked Questions (FAQ)
 
 * **Where can I find  the tutorial material if I missed a live tutorial?**
-You can find the recordings as well as our demo notebooks once (registration)[https://ironhacks.com/hacks/fall-2022] has opened. 
+You can find the recordings as well as our demo notebooks once you register at (ironhacks.com/hacks/fall-2022/register)[https://ironhacks.com/hacks/fall-2022/register]. 
 * **Where can I find recordings if I missed an info session?**
 Recordings of our weekly live sessions/info session will be posted in the forum as links to our **[youtube channel here](https://www.youtube.com/channel/UCBAB-PVEiB4YhHEDVW9WPWg)**. So we suggest you subscribe to this channel to have updated info about that!  
 * **How do I get access to the competition?**
