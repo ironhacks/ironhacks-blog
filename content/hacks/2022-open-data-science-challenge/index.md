@@ -40,10 +40,10 @@ We ask you to predict the number of unemployment claims using historical data pr
 
 ## Your workspace
 
-During the competition, you will use the new IronHacks workspace that supports a fully integrated data science workflow: You will have access to a **JupyterLab**, a key, and libraries to query and analyze data from **BigQuery**. **Please note: For this competition, you will only be using Python.**  Please check out the workspace by clicking on the workspace button in the right corner.  
+During the competition, you will use the new IronHacks workspace that supports a fully integrated data science workflow: You will have access to a **JupyterLab** and libraries to query and analyze data from **BigQuery**. **Please note: For this competition, you will only be using Python.**  Please check out the workspace by clicking on the workspace button in the right corner.  
 
 ## Accessing the data in BigQuery
-Our Tutorial #2, which will be available when registration at **[ironhacks.com/hacks/fall-2022/register](https://ironhacks.com/hacks/fall-2022/register)** opens, will tell you more about how to query the data. We will release new keys in batches so it might take up to a day until you have access to a key! 
+Our Tutorial #2, which will be available when registration at **[ironhacks.com/hacks/fall-2022/register](https://ironhacks.com/hacks/fall-2022/register)** opens, will tell you more about how to query the data. 
 
 ## Your submission
 
