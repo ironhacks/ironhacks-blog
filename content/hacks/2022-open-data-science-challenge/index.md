@@ -77,8 +77,8 @@ We will create a Calendar for you to learn more about the dates and deadlines be
 | Submission opportunities | Every Thursday and every Saturday at 11:59 pm |
 | Mandatory submissions    | Every Monday at 11:59 pm | 
 | Update of database and updated target week for prediction | Every Tuesday at 12 pm |
-| Registration Ends | Nov 5, 2022 11:59 pm |
-| Last Mandatory Submission               | Nov 21, 2022 11:59 pm |
+| Registration Ends | Nov 21, 2022 11:59 pm |
+| Last Mandatory Submission               | Dec 5, 2022 11:59 pm |
 
 
 ## Skills and tutorials
