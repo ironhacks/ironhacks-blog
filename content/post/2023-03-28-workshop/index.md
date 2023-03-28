@@ -1,6 +1,6 @@
 ---
 title: 'IronHacks Workshop on 19th April 2023'
-date: 2022-09-23
+date: 2023-03-28
 math: true
 diagram: true
 highlight: true
