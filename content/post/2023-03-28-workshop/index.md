@@ -13,6 +13,9 @@ image:
   caption: ''
 ---
 
+<a href="https://www.addevent.com/event/CR16414146" title="" target="_blank"><img src="https://cdn.addevent.com/libs/imgs/icon-emd-rsvp-t7.png" alt="" width="118" border="0"></a> <p style="margin:0;padding:35px 0px 0px 0px;text-align:center;"><a href="https://www.addevent.com/?utm_source=event&amp;utm_medium=atclinks&amp;utm_id=plg" target="_blank" style="font-weight:normal;color:#125ef8;text-decoration:underline;"><img src="https://cdn.addevent.com/web/images/logo-email-plain-fff-t1.png" alt="" width="129" height="15" style="width:129px;height:15px;"></a></p>
+
+
 ## **Benefits of Using IronHacks for Researchers:**
 
 **IronHacks** is an experimental platform for social researchers to study emerging social phenomena in the field. The platform provides an opportunity for researchers to leverage the granular digital traces of human actions and interactions on and with digital platforms for developing and testing hypotheses related to individuals, groups, crowds, and collectives, as well as artifacts and platform architecture (Brunswicker et al., 2018) with advanced methods (Gosling and Johnson, 2010). The subjects enrolled in IronHacks are data scientists or programmers who are interested in tackling real-world problems. IronHacks employs randomized controlled experiments which have long been considered the gold standard of scientific research (Recker, 2013). IronHacks combines machine learning with large-scale digital experiments to offer completely new ways of developing and testing theory. To enable experimental research of various kinds, IronHacks has emerged as a digital platform for conducting experiments that are controlled by researchers themselves, thus enabling us to assess various treatment effects and reap digital trace data.
@@ -105,6 +108,7 @@ researchopendigitalinnovation@gmail.com <br>
 - Kuwabara, K. (2015). Do reputation systems undermine trust? Divergent effects of enforcement type on generalized trust and trustworthiness. American Journal of Sociology, 120(5), 1390-1428. <br>
 - Recker, J. (2013). Scientific research in information systems: a beginner's guide (p. 5). Berlin: Springer. <br>
 
+<a href="https://www.addevent.com/event/CR16414146" title="" target="_blank"><img src="https://cdn.addevent.com/libs/imgs/icon-emd-rsvp-t7.png" alt="" width="118" border="0"></a> <p style="margin:0;padding:35px 0px 0px 0px;text-align:center;"><a href="https://www.addevent.com/?utm_source=event&amp;utm_medium=atclinks&amp;utm_id=plg" target="_blank" style="font-weight:normal;color:#125ef8;text-decoration:underline;"><img src="https://cdn.addevent.com/web/images/logo-email-plain-fff-t1.png" alt="" width="129" height="15" style="width:129px;height:15px;"></a></p>
 
 
 
@@ -113,3 +117,5 @@ _Learn more about IronHacks and participate in Data Science Challenges at [ironh
 ---
 
 ### Did you find this page helpful? Consider sharing it 🙌
+
+
