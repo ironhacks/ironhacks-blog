@@ -16,20 +16,40 @@ image:
 <a href="https://www.addevent.com/event/CR16414146" title="" target="_blank"><img src="https://cdn.addevent.com/libs/imgs/icon-emd-rsvp-t7.png" alt="" width="118" border="0"></a> <p style="margin:0;padding:35px 0px 0px 0px;text-align:center;"><a href="https://www.addevent.com/?utm_source=event&amp;utm_medium=atclinks&amp;utm_id=plg" target="_blank" style="font-weight:normal;color:#125ef8;text-decoration:underline;"><img src="https://cdn.addevent.com/web/images/logo-email-plain-fff-t1.png" alt="" width="129" height="15" style="width:129px;height:15px;"></a></p>
 
 
-## **Benefits of Using IronHacks for Researchers:**
+## **Introduction**
 
-**IronHacks** is an experimental platform for social researchers to study emerging social phenomena in the field. The platform provides an opportunity for researchers to leverage the granular digital traces of human actions and interactions on and with digital platforms for developing and testing hypotheses related to individuals, groups, crowds, and collectives, as well as artifacts and platform architecture (Brunswicker et al., 2018) with advanced methods (Gosling and Johnson, 2010). The subjects enrolled in IronHacks are data scientists or programmers who are interested in tackling real-world problems. IronHacks employs randomized controlled experiments which have long been considered the gold standard of scientific research (Recker, 2013). IronHacks combines machine learning with large-scale digital experiments to offer completely new ways of developing and testing theory. To enable experimental research of various kinds, IronHacks has emerged as a digital platform for conducting experiments that are controlled by researchers themselves, thus enabling us to assess various treatment effects and reap digital trace data.
+To all scholars in social sciences, arts, and humanities, we are excited to announce an opportunity for CLA faculty and graduate students to collaborate on exploring the new age of data, code, and AI using computational methods and experiments in the cloud to advance empirical theories. Through this workshop, the Research Center for Open Digital Innovation (RCODI) would like to invite you to join us in this exciting endeavor as we explore the future together through IronHacks platform. 
 
-## **Purpose of Workshop for CLA Colleagues:**
+### Event Details:
+**Date:** Friday, April 21st, 2023 <br>
+**Room:** [TBD] at Purdue University. <br>
+This is a hybrid workshop, for those who intend to join virtually, please RSVP as “Interested”.  <br>
 
-We would like to  engage  scholars working in this area to collectively leverage resources and ideas to enable digital experimental research. Through presentations of empirical work and group discussions, this CLA sponsored workshop is intended to contribute a nuanced and grounded view of the opportunities in using IronHacks for implementing digital experiments. 
-In the past, IronHacks has been used for asynchronous experiments , but synchronous experiments are also possible. We assume that actors’ actions on the platform are independent, but dependent actions are possible to implement. 
 
-## **Potential Ironhacks Research Topics for CLA Colleagues**
+## **About IronHacks**
 
-Are you a scholar in social sciences, arts and humanities and want to study our new age of data, code, and AI? Do you want to use computational methods and experiments in the cloud to advance theories empirically?
+**IronHacks** is an experimental platform for social researchers to study emerging social phenomena in the field. The platform provides an opportunity for researchers to leverage the granular digital traces of human actions and interactions on and with digital platforms for developing and testing hypotheses related to individuals, groups, crowds, and collectives, as well as artifacts and platform architecture (Brunswicker et al., 2018) with advanced methods (Gosling and Johnson, 2010). IronHacks employs randomized controlled experiments which have long been considered the gold standard of scientific research (Recker, 2013). IronHacks combines machine learning with large-scale digital experiments, providing researchers with new ways of developing and testing theory. <br> The subjects enrolled in IronHacks are data scientists or programmers who are interested in tackling real-world problems. 
 
-We would like to announce an opportunity for CLA faculty and graduate students where we collaborate on these future topics & tasks. 
+## **Benefits of Using IronHacks for Researchers**
+
+### **Diverse Tasks & Topics Possible with IronHacks**
+
+IronHacks offers a wide range of future tasks and possible topics to study with IronHacks including computational anthropology (Diver, 2021) , labor market (Harding et al., 2018) , trust (Kuwabara, 2015), etc (refer to the table below). 
+
+### **Research Opportunities**
+
+Researchers can use IronHacks to study the process of generating and evaluating new alternatives (search), as well as changes in beliefs and behaviors through experience (learning). 
+
+### **Customizable Tasks and Experimental Possibilities**
+
+Tasks can be customized to capture various features of the taxonomy. The platform also allows for customizable experimental research, enabling researchers to assess various treatment effects and capture digital trace data. <br>
+
+IronHacks has been used for asynchronous experiments, but synchronous experiments are also feasible. While actors' actions on the platform are assumed to be independent, it is possible to implement dependent actions.
+
+
+
+## **Potential Ironhacks Research Topics**
+
 
 | **Suggested Tasks for Future IronHacks:** | **Suggested Topics for Researchers:** | Artificial Intelligence |
 | ----------- | ----------- | ----------- |
@@ -53,7 +73,7 @@ We would like to announce an opportunity for CLA faculty and graduate students w
 
 ## **About the Organizer**
 
-Dr. Sabine Brunswicker is an internationally recognized innovation scholar and computational social scientist, bridging the fields of social sciences and information science & technology. She is a Professor for Digital Innovation, and the Founder and Director of the Research Center for Open Digital Innovation (RCODI). 
+**Dr. Sabine Brunswicker** is an internationally recognized innovation scholar and computational social scientist, bridging the fields of social sciences and information science & technology. She is a Professor for Digital Innovation, and the Founder and Director of the Research Center for Open Digital Innovation (RCODI). 
 
 In her research on digital innovation, she is particularly focused on the role of digital platforms as a means to leverage distributed machine and human intelligence when solving complex problems at scale. Examples of digital innovation she studies are Open source software (OSS) communities, crowdsourcing, citizen science, blockchains, and digital manufacturing. In her work, she designs and examines the social and technical ‘features’ of digital platforms with a focus on economic, social, and ecological outcomes. Further, she uses computational techniques (e.g. agent-based modeling, network analysis) and field experiments to advance theories and models of complex socio-technical interactions. Her work has been funded by NSF, NIH, the European Commission (EC), and industry and philanthropic donors.
 
