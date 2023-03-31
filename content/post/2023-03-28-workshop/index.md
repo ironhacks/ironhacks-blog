@@ -26,11 +26,12 @@ To all scholars in social sciences, arts, and humanities, we are excited to anno
 This is a hybrid workshop, for those who intend to join virtually, please RSVP as “Interested”.  <br>
 
 
-## **About IronHacks**
+## **What is the Workshop About?**
 
 **IronHacks** is an experimental platform for social researchers to study emerging social phenomena in the field. The platform provides an opportunity for researchers to leverage the granular digital traces of human actions and interactions on and with digital platforms for developing and testing hypotheses related to individuals, groups, crowds, and collectives, as well as artifacts and platform architecture (Brunswicker et al., 2018) with advanced methods (Gosling and Johnson, 2010). IronHacks employs randomized controlled experiments which have long been considered the gold standard of scientific research (Recker, 2013). IronHacks combines machine learning with large-scale digital experiments, providing researchers with new ways of developing and testing theory. <br> The subjects enrolled in IronHacks are data scientists or programmers who are interested in tackling real-world problems. 
 
-## **Benefits of Using IronHacks for Researchers**
+## **What are the Benefits for Me As a Researcher?**
+Here are the benefits for you as a researcher. 
 
 ### **Diverse Tasks & Topics Possible with IronHacks**
 
