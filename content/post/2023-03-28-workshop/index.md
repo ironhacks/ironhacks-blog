@@ -31,20 +31,13 @@ Are you a scholar in social sciences, arts and humanities and want to study our 
 
 We would like to announce an opportunity for CLA faculty and graduate students where we collaborate on these future topics & tasks. 
 
-| **Suggested Tasks for Future IronHacks:** | **Suggested Topics for Researchers:** |
+| **Suggested Tasks for Future IronHacks:** | **Suggested Topics for Researchers:** | Artificial Intelligence |
 | ----------- | ----------- | ----------- |
-| Forecasting & Trend Analysis  | Social Networks | 
-| Global Health | Problem-Solving  | 
-| Large government databases for labor, poverty, etc  | Cognitive Behavior  | 
-| Economic Analysis | Organizational Learning  |
-| | Individual Learning |
-| | Artificial Intelligence |
-| | Teams |
-| | Human-Machine Systems |
-| | Social Learning |
-| | Trust |
-| | Labor Market |
-| | Misinformation |
+| Forecasting & Trend Analysis  | Social Networks | Teams |
+| Global Health | Problem-Solving  | Human-Machine Systems |
+| Large government databases for labor, poverty, etc  | Cognitive Behavior  | Social Learning |
+| Economic Analysis | Organizational Learning  | Trust |
+| | Individual Learning | Labor Market, Misinformation |
 
 ## **Workshop Agenda**
 
