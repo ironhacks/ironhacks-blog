@@ -13,7 +13,7 @@ image:
   caption: ''
 ---
 
-<a href="https://www.addevent.com/event/CR16414146" title="" target="_blank"><img src="https://cdn.addevent.com/libs/imgs/icon-emd-rsvp-t7.png" alt="" width="118" border="0"></a> <p style="margin:0;padding:35px 0px 0px 0px;text-align:center;"><a href="https://www.addevent.com/?utm_source=event&amp;utm_medium=atclinks&amp;utm_id=plg" target="_blank" style="font-weight:normal;color:#125ef8;text-decoration:underline;"><img src="https://cdn.addevent.com/web/images/logo-email-plain-fff-t1.png" alt="" width="129" height="15" style="width:129px;height:15px;"></a></p>
+<a href="https://www.addevent.com/event/CR16414146" title="" target="_blank"><img src="https://cdn.addevent.com/libs/imgs/icon-emd-rsvp-t2.png" alt="" width="118" border="0"></a>
 
 
 ## **Introduction**
@@ -115,7 +115,7 @@ researchopendigitalinnovation@gmail.com <br>
 - Kuwabara, K. (2015). Do reputation systems undermine trust? Divergent effects of enforcement type on generalized trust and trustworthiness. American Journal of Sociology, 120(5), 1390-1428. <br>
 - Recker, J. (2013). Scientific research in information systems: a beginner's guide (p. 5). Berlin: Springer. <br>
 
-<a href="https://www.addevent.com/event/CR16414146" title="" target="_blank"><img src="https://cdn.addevent.com/libs/imgs/icon-emd-rsvp-t7.png" alt="" width="118" border="0"></a> <p style="margin:0;padding:35px 0px 0px 0px;text-align:center;"><a href="https://www.addevent.com/?utm_source=event&amp;utm_medium=atclinks&amp;utm_id=plg" target="_blank" style="font-weight:normal;color:#125ef8;text-decoration:underline;"><img src="https://cdn.addevent.com/web/images/logo-email-plain-fff-t1.png" alt="" width="129" height="15" style="width:129px;height:15px;"></a></p>
+<a href="https://www.addevent.com/event/CR16414146" title="" target="_blank"><img src="https://cdn.addevent.com/libs/imgs/icon-emd-rsvp-t2.png" alt="" width="118" border="0"></a>
 
 
 
