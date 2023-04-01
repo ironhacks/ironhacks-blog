@@ -1,5 +1,5 @@
 ---
-title: 'Computational Liberal Arts (CLA) Workshop on IronHacks: Studying humans in the age of code, data, and AI using computational methods and online experiments.'
+title: 'Computational Liberal Arts (CLA) Workshop on IronHacks'
 date: 2023-03-28
 math: true
 diagram: true
@@ -11,18 +11,18 @@ tags:
 image:
   placement: 4
   caption: ''
----
+--- 
 
 <a href="https://www.addevent.com/event/CR16414146" title="" target="_blank"><img src="https://cdn.addevent.com/libs/imgs/icon-emd-rsvp-t2.png" alt="" width="118" border="0"></a>
 
 
-## **Introduction**
+## **Computational Liberal Arts (CLA) Workshop on IronHacks: Studying humans in the age of code, data, and AI using computational methods and online experiments.**
 
-To all scholars in social sciences, arts, and humanities, we are excited to announce an opportunity for CLA faculty and graduate students to collaborate on exploring the new age of data, code, and AI using computational methods and experiments in the cloud to advance empirical theories. Through this workshop, the Research Center for Open Digital Innovation (RCODI) would like to invite you to join us in this exciting endeavor as we explore the future together through IronHacks platform. 
+We are excited to invite faculty and graduate students in liberal arts and social sciences to a half-day workshop to learn about and discuss how they can leverage "IronHacks" - a program and a platform developed at Purdue by the Research Center for Open Digital Innovation  - for studing humans and their actions in the new age of data, code, and AI. Specifically, the workshop will focus on how this platform can facilitate computational resaerch in the liberal arts to develop new and advance theories of liberal arts, humantiusing large-scale online experiments and other computational methods. 
 
 ### Event Details:
 **Date:** Friday, April 21st, 2023 <br>
-**Room:** [TBD] at Purdue University. <br>
+**Room:** BRNG 222 at Purdue University. <br>
 This is a hybrid workshop, for those who intend to join virtually, please RSVP as “Interested”.  <br>
 
 
@@ -30,8 +30,8 @@ This is a hybrid workshop, for those who intend to join virtually, please RSVP a
 
 **IronHacks** is an experimental platform for social researchers to study emerging social phenomena in the field. The platform provides an opportunity for researchers to leverage the granular digital traces of human actions and interactions on and with digital platforms for developing and testing hypotheses related to individuals, groups, crowds, and collectives, as well as artifacts and platform architecture (Brunswicker et al., 2018) with advanced methods (Gosling and Johnson, 2010). IronHacks employs randomized controlled experiments which have long been considered the gold standard of scientific research (Recker, 2013). IronHacks combines machine learning with large-scale digital experiments, providing researchers with new ways of developing and testing theory. <br> The subjects enrolled in IronHacks are data scientists or programmers who are interested in tackling real-world problems. 
 
-## **What are the Benefits for Me As a Researcher?**
-Here are the benefits for you as a researcher. 
+## **Why should I participate as CLA researcher?**
+There are various benefits 
 
 ### **Diverse Tasks & Topics Possible with IronHacks**
 
