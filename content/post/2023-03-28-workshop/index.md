@@ -20,11 +20,6 @@ image:
 
 We are excited to invite faculty and graduate students in liberal arts and social sciences to a half-day workshop to learn about and discuss how they can leverage "IronHacks" - a program and a platform developed at Purdue by the Research Center for Open Digital Innovation  - for studing humans and their actions in the new age of data, code, and AI. Specifically, the workshop will focus on how this platform can facilitate computational resaerch in the liberal arts to develop new and advance theories of liberal arts, humantiusing large-scale online experiments and other computational methods. 
 
-### Event Details:
-**Date:** Friday, April 21st, 2023 <br>
-**Room:** BRNG 222 at Purdue University. <br>
-This is a hybrid workshop, for those who intend to join virtually, please RSVP as “Interested”.  <br>
-
 
 ## **What is the Workshop About?**
 
