@@ -39,7 +39,7 @@ IronHacks offers a wide range of future tasks and possible topics to study with 
 
 ### **Research Opportunities**
 
-Researchers can use IronHacks to study the process of generating and evaluating new alternatives (search), as well as changes in beliefs and behaviors through experience (learning). 
+Researchers can use IronHacks to study the process of generating and evaluating new alternatives (search), as well as changes in beliefs and behaviors through experience (learning) in a natural setting. Many other opportunities with the platform are also available. 
 
 ### **Customizable Tasks and Experimental Possibilities**
 
