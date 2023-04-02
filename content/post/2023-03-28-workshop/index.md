@@ -23,14 +23,17 @@ We are excited to invite faculty and graduate students in liberal arts and socia
 
 ## **What is the Workshop About?**
 During the workshop, participants will learn how they can use IronHacks to perform computational research in the liberal arts (CLA) and social sciences (CSS) to develop advance and develop new theories using large-scale online experiments and analyzing trace data with computational methods. [**IronHacks**](https://www.ironhacks.com) is a platform for researchers in CLA and CSS to study how technically interested and savvy humans (programmers, data scientists, app developers, etc.) engage in data and code-related work and problem-solving to solve data-related challenges (e.g. developing a data science algorithm for forecasting unemployment, developing a data visualization to be shown on a website, designing a web app, etc.). Further, it allows studying many other code-related human actions. For example, it researchers can use IronHacks to study how end-users and humans without technical expertise interact with code, data, and artificial agents (e.g. recommender systems, bots, etc.) more broadly. The platform provides an opportunity for researchers to leverage the granular digital traces of human actions and interactions on and with digital platforms for developing and testing new theories in liberal arts and social sciences at different levels - individuals, groups, crowds, and collectives, as well as artifacts and design (Brunswicker et al., 2018) using computational methods (Gosling and Johnson, 2010). IronHacks also allows researchers to perform randomized controlled experiments which have long been considered the gold standard of scientific research (Recker, 2013). IronHacks allows scholars to move from the lab into the "field" while maintaining control of the experimental set-up. The participants in such research studies either come from the existing IronHacks community of programmers and data scientists, or can be recruited in a purposive way depending on the population of interest. 
+## **Event Details**  
+- Date: Friday, April 21st, 2023. 
+- Time: 11 AM - 4 PM.
+- Room: BRNG (Beering Hall) B222.
 
 ## **Why should I participate as CLA researcher?**   
 
 There are a range of benefits from participating in this workshop: 
-
 1. You have the opportunity to learn about, form and become part of the new field of computational liberal arts (CLA) and the emerging field of computational social sciences (CSS)
 2. You get direct insights how the RCODI team has used IronHacks in their prior research on digital innovation, crowds, and collective intelligence and data science learning/programming
-3. You can discuss how you could use IronHacks to answer a research question of interest to you in your specific field of liberal arts and social science. Specifically, you will 
+3. You can discuss how you could use IronHacks to answer a research question of interest to you in your specific field of liberal arts and social science. Specifically, you will: 
 * See a demo of the Ironhacks platform and how to use it as a researcher.
 * Understand what trace data you could collect and what methods could be used to analyze such data.
 * Listen to the experiences of a recent participant in an IronHacks "challenge" - the so-called hack, and learn about the practical experiences of those engaging in data science work on IronHacks.
@@ -47,19 +50,19 @@ However, the platform is not restricted to such topics but can also be used to s
 
 Examples of potential research topics are: 
 
-* social networks, online communities and AI
-* data-driven, code-based and AI-enabled decision-making
-* design and creative work in digital environments, gamification
-* social and organizational learning in data environments, new forms of code-enabled organizational evolution (co-evolution)
-* information disclosure, privacy, and security in the age of data, code and AI
-* misinformation and deception
-* new AI-enabled forms of collective action
-* code and culture and cultural evolution
-* human-AI teaming (human-in-the loop) and human-crowd partnership
-* human versus artificial intelligence in settings of prediction markets
-* code, AI, and law
+* Social networks, online communities and AI
+* Data-driven, code-based and AI-enabled decision-making
+* Design and creative work in digital environments, gamification
+* Social and organizational learning in data environments, new forms of code-enabled organizational evolution (co-evolution)
+* Information disclosure, privacy, and security in the age of data, code and AI
+* Misinformation and deception
+* New AI-enabled forms of collective action
+* Code and culture and cultural evolution
+* Human-AI teaming (human-in-the loop) and human-crowd partnership
+* Human versus artificial intelligence in settings of prediction markets
+* Code, AI, and law
 
-[**IronHacks**](https://www.ironhacks.com) offers flexibility in data collection as well as the design of randomized or natural experiments (field studies) enabling researchers to assess various treatment effects and capturing a variety of digital trace data (code-based interactions, natural language conversations, interactions with code, data, artifacts, and AI, attention, etc.) It can also be combined with data collected in lab settings, e.g. those of interest to psychologist (e.g. cognitive modeling using physiological data collected via wearable computing devices like eyetrackers, smart wristbands or even genomics (e.g. to connect to the field of social genonomics)). 
+[**IronHacks**](https://www.ironhacks.com) offers flexibility in data collection as well as the design of randomized or natural experiments (field studies) enabling researchers to assess various treatment effects and capturing a variety of digital trace data (code-based interactions, natural language conversations, interactions with code, data, artifacts, and AI, attention, etc.) It can also be combined with data collected in lab settings, e.g. those of interest to psychologists (e.g. cognitive modeling using physiological data collected via wearable computing devices like eyetrackers, smart wristbands or even genomics (e.g. to connect to the field of social genonomics)). 
 
 ## **Workshop Agenda**
 
@@ -84,10 +87,10 @@ Examples of potential research topics are:
 ### **How can I save a spot and participate in the workshop?**
 Are you excited to join? To take part in the workshop, please do as follows.  
 
-1. Sign-up using the link below by **April 17, 2023**. 
-2. Come to BRGN 222 on April 21 at 11 am and ideally bring your laptop (not required but recommended)
+1. Sign-up using the link below by **Monday, April 17th, 2023**. 
+2. Come to BRNG (Beering Hall) B222 on April 21st at 11 AM and ideally bring your laptop (not required but recommended)
 3. Join our mailing list by signing up to [**IronHacks**](https://www.ironhacks.com)
-4. Send an email to the <a href=mailto:"ironhacksteam@gmail.com">IronHacks team </a>, if you have questions prior to the workshop. 
+4. Send an email to the <a href=mailto:"ironhacksteam@gmail.com"> IronHacks team <a>, if you have questions prior to the workshop. 
 
 <a href="https://www.addevent.com/event/CR16414146" title="" target="_blank"><img src="https://cdn.addevent.com/libs/imgs/icon-emd-rsvp-t2.png" alt="" width="118" border="0"></a>
 
