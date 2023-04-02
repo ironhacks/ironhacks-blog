@@ -85,7 +85,7 @@ Are you excited to join? To take part in the workshop:
 1. Sign-up using the link below by **April 17, 2023**. 
 2. Come to BRGN 222 on April 21 at 11 am and ideally bring your laptop (not required but recommended)
 3. Join our mailing list by signing up to [**IronHacks**](https://www.ironhacks.com)
-4. Send an email to the <a href=mailto:"ironhacksteam@gmail.com">IronHacks team</a>, if you have questions prior to the workshop. 
+4. Send an email to the <a href=mailto:"ironhacksteam@gmail.com">IronHacks team </a>, if you have questions prior to the workshop. 
 
 <a href="https://www.addevent.com/event/CR16414146" title="" target="_blank"><img src="https://cdn.addevent.com/libs/imgs/icon-emd-rsvp-t2.png" alt="" width="118" border="0"></a>
 
