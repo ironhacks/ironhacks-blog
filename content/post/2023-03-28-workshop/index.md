@@ -108,8 +108,8 @@ The Research Center for Open Digital Innovation (RCODI) strives to engage in a r
 ### **Where can I learn more before the workshop** 
 
 - [Website IronHacks](https://ironhacks.com)
-- [IronHacks Blog:] (https://blog.ironhacks.com/)
-- [IronHacks Info Slides on Slideshare]([XXXX](https://docs.google.com/presentation/d/1NKc3TMKG7L17R76xRxg0mGqixxX5C7HrN9QXjIIM19M/edit#slide=id.g1ede089a38b_0_77))
+- [IronHacks Blog] (https://blog.ironhacks.com)
+- [IronHacks Info Slides on Slideshare](https://docs.google.com/presentation/d/1NKc3TMKG7L17R76xRxg0mGqixxX5C7HrN9QXjIIM19M/edit#slide=id.g1ede089a38b_0_77)
 - [IronHacks Video on Youtube]( https://www.youtube.com/@purdueironhacks5368)
 - [IronHacks Documentation](https://ironhacks.github.io/docs/)
 - [IronHacks Source Code on github](https://github.com/ironhacks/ironhacks-app)
