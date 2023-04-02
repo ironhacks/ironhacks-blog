@@ -22,7 +22,7 @@ We are excited to invite faculty and graduate students in liberal arts and socia
 
 
 ## **What is the Workshop About?**
-During the workshop, participants will learn how they can use IronHacks to perform computational research in the liberal arts (CLA) and social sciences (CSS) to develop advance and develop new theories using large-scale online experiments and analyzing trace data with computational methods. [**IronHacks**](https://www.ironhacks.com)is a platform for researchers in CLA and CSS to study how technically interested and savvy humans (programmers, data scientists, app developers, etc.) engage in data and code-related work and problem-solving to solve data-related challenges (e.g. developing a data science algorithm for forecasting unemployment, developing a data visualization to be shown on a website, designing a web app, etc.). Further, it allows studying many other code-related human actions. For example, it researchers can use IronHacks to study how end-users and humans without technical expertise interact with code, data, and artificial agents (e.g. recommender systems, bots, etc.) more broadly. The platform provides an opportunity for researchers to leverage the granular digital traces of human actions and interactions on and with digital platforms for developing and testing new theories in liberal arts and social sciences at different levels - individuals, groups, crowds, and collectives, as well as artifacts and design (Brunswicker et al., 2018) using computational methods (Gosling and Johnson, 2010). IronHacks also allows researchers to perform randomized controlled experiments which have long been considered the gold standard of scientific research (Recker, 2013). IronHacks allows scholars to move from the lab into the "field" while maintaining control of the experimental set-up. The participants in such research studies either come from the existing IronHacks community of programmers and data scientists, or can be recruited in a purposive way depending on the population of interest. 
+During the workshop, participants will learn how they can use IronHacks to perform computational research in the liberal arts (CLA) and social sciences (CSS) to develop advance and develop new theories using large-scale online experiments and analyzing trace data with computational methods. [**IronHacks**](https://www.ironhacks.com) is a platform for researchers in CLA and CSS to study how technically interested and savvy humans (programmers, data scientists, app developers, etc.) engage in data and code-related work and problem-solving to solve data-related challenges (e.g. developing a data science algorithm for forecasting unemployment, developing a data visualization to be shown on a website, designing a web app, etc.). Further, it allows studying many other code-related human actions. For example, it researchers can use IronHacks to study how end-users and humans without technical expertise interact with code, data, and artificial agents (e.g. recommender systems, bots, etc.) more broadly. The platform provides an opportunity for researchers to leverage the granular digital traces of human actions and interactions on and with digital platforms for developing and testing new theories in liberal arts and social sciences at different levels - individuals, groups, crowds, and collectives, as well as artifacts and design (Brunswicker et al., 2018) using computational methods (Gosling and Johnson, 2010). IronHacks also allows researchers to perform randomized controlled experiments which have long been considered the gold standard of scientific research (Recker, 2013). IronHacks allows scholars to move from the lab into the "field" while maintaining control of the experimental set-up. The participants in such research studies either come from the existing IronHacks community of programmers and data scientists, or can be recruited in a purposive way depending on the population of interest. 
 
 ## **Why should I participate as CLA researcher?**   
 
@@ -31,19 +31,21 @@ There are a range of benefits from participating in this workshop:
 1. You have the opportunity to learn about, form and become part of the new field of computational liberal arts (CLA) and the emerging field of computational social sciences (CSS)
 2. You get direct insights how the RCODI team has used IronHacks in their prior research on digital innovation, crowds, and collective intelligence and data science learning/programming
 3. You can discuss how you could use IronHacks to answer a research question of interest to you in your specific field of liberal arts and social science. Specifically, you will 
-* see a demo of the Ironhacks platform and how to use it as a researcher
-* understand what trace data you could collect and what methods could be used to analyze such data.
-* listen to to the experiences of a recent participant in an IronHacks "challenge" - the so called hack, and learn about the practical experiences of those engaging in data science work on IronHacks
-4. Understand why IronHacks offers greater potential for "realistic" research on human behavior in the age of code, data, and AI compared to platforms like Kaggle,Topcoder, Mturk,Volunteer Sciences, O-tree, Apple appstore, Qualtrics, etc. 
-5. Understand how you could integrate IronHacks in your own teaching
+* See a demo of the Ironhacks platform and how to use it as a researcher.
+* Understand what trace data you could collect and what methods could be used to analyze such data.
+* Listen to the experiences of a recent participant in an IronHacks "challenge" - the so-called hack, and learn about the practical experiences of those engaging in data science work on IronHacks.
+4. Understand why IronHacks offers greater potential for "realistic" research on human behavior in the age of code, data, and AI compared to platforms like Kaggle,Topcoder, Mturk, Volunteer Sciences, O-tree, Apple appstore, Qualtrics, etc. 
+5. Understand how you could integrate IronHacks in your own teaching.
 6. Develop ties to other researchers and the RCODI team to form a working group at Purdue, in which you can brainstorm, design, and implement research projects using IronHacks, work with RCODI on grant application, and develop a strategy to advance the platform and its community to serve the needs of computational liberal arts (CLA) and also computational social science more broadly. 
-7. Discuss the opportunity to become a RCODI fellow, who has the opportunity to access, work with, and collect data jointly with the IronHacks team, while learning new skills and/or performing research
+7. Discuss the opportunity to become a RCODI fellow, who has the opportunity to access, work with, and collect data jointly with the IronHacks team, while learning new skills and/or performing research.
 
 
-## **What research topic could I potential tackle with IronHacks**
+## **What research topics could I potential tackle with IronHacks?**
 
 The RCODI team and its collaborators have used and are using IronHacks for research on information disclosure and transparency in digital innovation, human-problem solving, creativity and design (visual as well as engineering design), crowds, social influence and collective intelligence, data science programming and augmented learning.   
-However, the platform is not restricted to such topics but can also be used to study research questions related to topics of interest to scholars in sociology, economics, management sciences, communication, political sciences, psychology, visual and performing arts, as well as antropology, law and philosophy (e.g. Diver, 2021; Harding et al., 2018; Kuwabara, 2015). Examples of potential research topics are: 
+However, the platform is not restricted to such topics but can also be used to study research questions related to topics of interest to scholars in sociology, economics, management sciences, communication, political sciences, psychology, visual and performing arts, as well as antropology, law and philosophy (e.g. Diver, 2021; Harding et al., 2018; Kuwabara, 2015). 
+
+Examples of potential research topics are: 
 
 * social networks, online communities and AI
 * data-driven, code-based and AI-enabled decision-making
@@ -57,7 +59,7 @@ However, the platform is not restricted to such topics but can also be used to s
 * human versus artificial intelligence in settings of prediction markets
 * code, AI, and law
 
-[**IronHacks**](https://www.ironhacks.com) offers flexibility in data collection as well as the design of randomized or natural experiments (field studies) enabling researchers to assess various treatment effects and capturing a variety of digital trace data (code-based interactions, natural language conversations, interactions with code, data, artifacts, and AI, attention, etc.). It can also be combined with data collected in lab settings, e.g. those of interest to psychologist (e.g. cognitive modeling using physiological data collected via wearable computing devices like eyetrackers, smart wristbands or even genomics (e.g. to connect to the field of social genonomics)). 
+[**IronHacks**](https://www.ironhacks.com) offers flexibility in data collection as well as the design of randomized or natural experiments (field studies) enabling researchers to assess various treatment effects and capturing a variety of digital trace data (code-based interactions, natural language conversations, interactions with code, data, artifacts, and AI, attention, etc.) It can also be combined with data collected in lab settings, e.g. those of interest to psychologist (e.g. cognitive modeling using physiological data collected via wearable computing devices like eyetrackers, smart wristbands or even genomics (e.g. to connect to the field of social genonomics)). 
 
 ## **Workshop Agenda**
 
@@ -80,7 +82,7 @@ However, the platform is not restricted to such topics but can also be used to s
 * Formation of a working group that nurtures a new field of computational liberal arts (CLA) at Purdue and beyond with the goal to advance the IronHacks platform and its community in order to perform next-generation research in the liberal arts 
 
 ### **How can I save a spot and participate in the workshop?**
-Are you excited to join? To take part in the workshop: 
+Are you excited to join? To take part in the workshop, please do as follows.  
 
 1. Sign-up using the link below by **April 17, 2023**. 
 2. Come to BRGN 222 on April 21 at 11 am and ideally bring your laptop (not required but recommended)
@@ -103,9 +105,9 @@ The Research Center for Open Digital Innovation (RCODI) strives to engage in a r
 ### **Where can I learn more before the workshop** 
 
 - [Website IronHacks](https://ironhacks.com)
-- [IronHacks Blog:] https://blog.ironhacks.com/
-- [IronHacks Info Slides on Slideshare](XXXX)
-- [IronHacks Video on Youtube](XXXX)
+- [IronHacks Blog:] (https://blog.ironhacks.com/)
+- [IronHacks Info Slides on Slideshare]([XXXX](https://docs.google.com/presentation/d/1NKc3TMKG7L17R76xRxg0mGqixxX5C7HrN9QXjIIM19M/edit#slide=id.g1ede089a38b_0_77))
+- [IronHacks Video on Youtube]( https://www.youtube.com/@purdueironhacks5368)
 - [IronHacks Documentation](https://ironhacks.github.io/docs/)
 - [IronHacks Source Code on github](https://github.com/ironhacks/ironhacks-app)
 
@@ -113,20 +115,20 @@ The Research Center for Open Digital Innovation (RCODI) strives to engage in a r
 ### **Contact Information**
 
 **Dr. Sabine Brunswicker**   
-Founding Director of RCODI, 
-Professor of Digital Innovation in PPI and COm
-email: sbrunswi@purdue.edu
+- Founding Director of RCODI
+- Professor of Digital Innovation in PPI and Com
+- Email: sbrunswi@purdue.edu
 
 **Dr. Howard E Sypher**   
-Professor in COM
-email: hsypher@purdue.edu
+- Professor in COM
+- Email: hsypher@purdue.edu
 
 **Dr. Sorin Matei**
-CLA Associate Dean of Research
-email: smatei@purdue.edu
+- CLA Associate Dean of Research
+- Email: smatei@purdue.edu
 
-**Research Center of Open Digital Innovation** <br>
-researchopendigitalinnovation@gmail.com <br>
+**Research Center of Open Digital Innovation**
+- researchopendigitalinnovation@gmail.com <br>
 
 ## **Citations**
 
