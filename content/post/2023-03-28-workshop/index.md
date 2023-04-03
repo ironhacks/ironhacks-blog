@@ -21,8 +21,10 @@ image:
 We are excited to invite faculty and graduate students in liberal arts and social sciences to a half-day workshop to learn about and discuss how to leverage [**IronHacks**](https://www.ironhacks.com), a platform developed at Purdue by the Research Center for Open Digital Innovation, for studing humans and their actions in today's world digital society shaped by data, code, and artificial intelligence (AI). 
 
 
-## **What is the Workshop About?**
-During the workshop, participants will learn how they can use IronHacks to perform computational research in the liberal arts (CLA) and social sciences (CSS) to develop advance and develop new theories using large-scale online experiments and analyzing trace data with computational methods. [**IronHacks**](https://www.ironhacks.com) is a platform for researchers in CLA and CSS to study how technically interested and savvy humans (programmers, data scientists, app developers, etc.) engage in data and code-related work and problem-solving to solve data-related challenges (e.g. developing a data science algorithm for forecasting unemployment, developing a data visualization to be shown on a website, designing a web app, etc.). Further, it allows studying many other code-related human actions. For example, it researchers can use IronHacks to study how end-users and humans without technical expertise interact with code, data, and artificial agents (e.g. recommender systems, bots, etc.) more broadly. The platform provides an opportunity for researchers to leverage the granular digital traces of human actions and interactions on and with digital platforms for developing and testing new theories in liberal arts and social sciences at different levels - individuals, groups, crowds, and collectives, as well as artifacts and design (Brunswicker et al., 2018) using computational methods (Gosling and Johnson, 2010). IronHacks also allows researchers to perform randomized controlled experiments which have long been considered the gold standard of scientific research (Recker, 2013). IronHacks allows scholars to move from the lab into the "field" while maintaining control of the experimental set-up. The participants in such research studies either come from the existing IronHacks community of programmers and data scientists, or can be recruited in a purposive way depending on the population of interest. 
+## **What is the workshop about?**
+During the workshop, participants will learn how they can use IronHacks to perform computational research in the liberal arts (CLA) and social sciences (CSS) to develop advance and develop new theories using large-scale online experiments and analyzing trace data with computational methods. [**IronHacks**](https://www.ironhacks.com) is a platform for researchers in CLA and CSS to study how technically interested and savvy humans (programmers, data scientists, app developers, etc.) engage in data and code-related work and problem-solving to solve data-related challenges (e.g. developing a data science algorithm for forecasting unemployment, developing a data visualization to be shown on a website, designing a web app, etc.). 
+
+Further, it allows studying many other code-related human actions. For example, it researchers can use IronHacks to study how end-users and humans without technical expertise interact with code, data, and artificial agents (e.g. recommender systems, bots, etc.) more broadly. The platform provides an opportunity for researchers to leverage the granular digital traces of human actions and interactions on and with digital platforms for developing and testing new theories in liberal arts and social sciences at different levels - individuals, groups, crowds, and collectives, as well as artifacts and design (Brunswicker et al., 2018) using computational methods (Gosling and Johnson, 2010). IronHacks also allows researchers to perform randomized controlled experiments which have long been considered the gold standard of scientific research (Recker, 2013). IronHacks allows scholars to move from the lab into the "field" while maintaining control of the experimental set-up. The participants in such research studies either come from the existing IronHacks community of programmers and data scientists, or can be recruited in a purposive way depending on the population of interest. 
 ## **Event Details**  
 - Date: Friday, April 21st, 2023. 
 - Time: 11 AM - 4 PM.
@@ -64,7 +66,7 @@ Examples of potential research topics are:
 
 [**IronHacks**](https://www.ironhacks.com) offers flexibility in data collection as well as the design of randomized or natural experiments (field studies) enabling researchers to assess various treatment effects and capturing a variety of digital trace data (code-based interactions, natural language conversations, interactions with code, data, artifacts, and AI, attention, etc.) It can also be combined with data collected in lab settings, e.g. those of interest to psychologists (e.g. cognitive modeling using physiological data collected via wearable computing devices like eyetrackers, smart wristbands or even genomics (e.g. to connect to the field of social genonomics)). 
 
-## **Workshop Agenda**
+## **Workshop agenda**
 
 | Time (EST) | Description | Speaker/Contributor |
 | ----------- | ----------- | ----------- |
@@ -98,7 +100,7 @@ Are you excited to join? To take part in the workshop, please do as follows.
 
 ## **About the Organizer**
 
-**[Dr. Sabine Brunswicker](https://rcodi.org/people/sabine-brunswicker/)** is an internationally recognized innovation scholar and computational social scientist, bridging the fields of social sciences and information science & technlogy. She is a Professor for Digital Innovation, and the Founder and Director of the Research Center for Open Digital Innovation (RCODI). 
+[**Dr. Sabine Brunswicker**](https://rcodi.org/people/sabine-brunswicker/) is an internationally recognized innovation scholar and computational social scientist, bridging the fields of social sciences and information science & technlogy. She is a Professor for Digital Innovation, and the Founder and Director of the Research Center for Open Digital Innovation (RCODI). 
 
 In her research on digital innovation, she is particularly focused on the role of digital platforms as a means to leverage distributed machine and human intelligence when solving complex problems at scale. Examples of digital innovation she studies are Open source software (OSS) communities, crowdsourcing, citizen science, blockchains, and digital manufacturing. In her work, she designs and examines the social and technical ‘features’ of digital platforms with a focus on economic, social, and ecological outcomes. Further, she uses computational techniques (e.g. agent-based modeling, network analysis) and field experiments to advance theories and models of complex socio-technical interactions. Her work has been funded by NSF, NIH, the European Commission (EC), and industry and philanthropic donors.
 
@@ -118,7 +120,7 @@ The Research Center for Open Digital Innovation (RCODI) strives to engage in a r
 
 ### **Contact Information**
 
-**[Dr. Sabine Brunswicker](https://rcodi.org/people/sabine-brunswicker/)**   
+[**Dr. Sabine Brunswicker**](https://rcodi.org/people/sabine-brunswicker/)  
 - Founding Director of RCODI
 - Professor of Digital Innovation in PPI and Com
 - Email: sbrunswi@purdue.edu
