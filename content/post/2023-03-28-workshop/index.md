@@ -1,5 +1,5 @@
 ---
-title: 'Computational Liberal Arts (CLA) Workshop on IronHacks'
+title: 'Computational Liberal Arts (CLA) Workshop on IronHacks in the Age of Artificial Intelligence'
 date: 2023-03-28
 math: true
 diagram: true
@@ -68,13 +68,14 @@ Examples of potential research topics are:
 
 | Time (EST) | Description | Speaker/Contributor |
 | ----------- | ----------- | ----------- |
-| 11:00 AM | Introduction to IronHacks Platform | Dr. Sabine Brunswicker |
+| 11:00 AM | Opening Remarks to Dr. Sorin Matei | Dr. Sorin Matei | 
+| 11:05 AM | Introduction to IronHacks Platform | Dr. Sabine Brunswicker |
 | 11:20 AM | Research results presentation | Dr. Sabine Brunswicker <br> Jia Lin Cheoh |
 | 12:00 PM  | Lunch Break  |  |
 | 1:00 PM | IronHacks Fall 2022 Summary | Dr. Sabine Brunswicker <br> Feature Winners (Lionel/Micks) |
 | 1:20 PM | Live demo of Capabilities of IronHacks Platform <br> Following along is encouraged | Dr. Sabine Brunswicker |
 | 2:00 PM | Discussion <br> Q&A <br> Future Development <br> Collaboration Opportunities| Dr. Sabine Brunswicker <br> RCODI Team Members |
-| 4:00 PM | Wrap Up and Concluding Remarks | Dr. Sabine Brunswicker|
+| 4:00 PM | Wrap Up and Concluding Remarks | Dr. Sabine Brunswicker and Dr. Sorin Matei|
 
 
 ## **What do we hope to achieve as an outcome?**
