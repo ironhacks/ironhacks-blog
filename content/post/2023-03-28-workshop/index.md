@@ -90,7 +90,7 @@ Are you excited to join? To take part in the workshop, please do as follows.
 1. Sign-up using the link below by **Monday, April 17th, 2023**. 
 2. Come to BRNG (Beering Hall) B222 on April 21st at 11 AM and ideally bring your laptop (not required but recommended)
 3. Join our mailing list by signing up to [**IronHacks**](https://www.ironhacks.com)
-4. Send an email to the <a href=mailto:"ironhacksteam@gmail.com"> IronHacks team <a>, if you have questions prior to the workshop. 
+4. Send an email to the <a href="mailto:ironhacksteam@gmail.com"> IronHacks team</a>, if you have questions prior to the workshop. 
 
 <a href="https://www.addevent.com/event/CR16414146" title="" target="_blank"><img src="https://cdn.addevent.com/libs/imgs/icon-emd-rsvp-t2.png" alt="" width="118" border="0"></a>
 
@@ -108,11 +108,11 @@ The Research Center for Open Digital Innovation (RCODI) strives to engage in a r
 ### **Where can I learn more before the workshop** 
 
 - [Website IronHacks](https://ironhacks.com)
-- [IronHacks Blog] (https://blog.ironhacks.com)
-- [IronHacks Info Slides on Slideshare](https://docs.google.com/presentation/d/1NKc3TMKG7L17R76xRxg0mGqixxX5C7HrN9QXjIIM19M/edit#slide=id.g1ede089a38b_0_77)
-- [IronHacks Video on Youtube]( https://www.youtube.com/@purdueironhacks5368)
+- [IronHacks Blog](https://blog.ironhacks.com)
+- [IronHacks Partnership Information Slides](https://drive.google.com/file/d/1bLmTVQDcovDLSvSt4on9tLk2vun7SuTo/view?usp=sharing)
+- [IronHacks Demo on Youtube](https://youtu.be/NbZETSmdkxY)
 - [IronHacks Documentation](https://ironhacks.github.io/docs/)
-- [IronHacks Source Code on github](https://github.com/ironhacks/ironhacks-app)
+- [IronHacks Source Code on Github](https://github.com/ironhacks/ironhacks-app)
 
 
 ### **Contact Information**
