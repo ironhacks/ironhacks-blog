@@ -59,7 +59,7 @@ Examples of potential research topics are:
 * New AI-enabled forms of collective action
 * Code and culture and cultural evolution
 * Human-AI teaming (human-in-the loop) and human-crowd partnership
-* Human versus artificial intelligence in settings of prediction markets
+* Human versus artificial intelligence in settings of prediction marketsg
 * Code, AI, and law
 
 [**IronHacks**](https://www.ironhacks.com) offers flexibility in data collection as well as the design of randomized or natural experiments (field studies) enabling researchers to assess various treatment effects and capturing a variety of digital trace data (code-based interactions, natural language conversations, interactions with code, data, artifacts, and AI, attention, etc.) It can also be combined with data collected in lab settings, e.g. those of interest to psychologists (e.g. cognitive modeling using physiological data collected via wearable computing devices like eyetrackers, smart wristbands or even genomics (e.g. to connect to the field of social genonomics)). 
@@ -98,7 +98,7 @@ Are you excited to join? To take part in the workshop, please do as follows.
 
 ## **About the Organizer**
 
-**Dr. Sabine Brunswicker** is an internationally recognized innovation scholar and computational social scientist, bridging the fields of social sciences and information science & technlogy. She is a Professor for Digital Innovation, and the Founder and Director of the Research Center for Open Digital Innovation (RCODI). 
+**[Dr. Sabine Brunswicker](https://rcodi.org/people/sabine-brunswicker/)** is an internationally recognized innovation scholar and computational social scientist, bridging the fields of social sciences and information science & technlogy. She is a Professor for Digital Innovation, and the Founder and Director of the Research Center for Open Digital Innovation (RCODI). 
 
 In her research on digital innovation, she is particularly focused on the role of digital platforms as a means to leverage distributed machine and human intelligence when solving complex problems at scale. Examples of digital innovation she studies are Open source software (OSS) communities, crowdsourcing, citizen science, blockchains, and digital manufacturing. In her work, she designs and examines the social and technical ‘features’ of digital platforms with a focus on economic, social, and ecological outcomes. Further, she uses computational techniques (e.g. agent-based modeling, network analysis) and field experiments to advance theories and models of complex socio-technical interactions. Her work has been funded by NSF, NIH, the European Commission (EC), and industry and philanthropic donors.
 
@@ -118,7 +118,7 @@ The Research Center for Open Digital Innovation (RCODI) strives to engage in a r
 
 ### **Contact Information**
 
-**Dr. Sabine Brunswicker**   
+**[Dr. Sabine Brunswicker](https://rcodi.org/people/sabine-brunswicker/)**   
 - Founding Director of RCODI
 - Professor of Digital Innovation in PPI and Com
 - Email: sbrunswi@purdue.edu
