@@ -98,7 +98,7 @@ Are you excited to join? To take part in the workshop, please do as follows.
 
 ## **About the Organizer**
 
-**[Dr. Sabine Brunswicker](https://rcodi.org/people/sabine-brunswicker/)** is an internationally recognized innovation scholar and computational social scientist, bridging the fields of social sciences and information science & technlogy. She is a Professor for Digital Innovation, and the Founder and Director of the Research Center for Open Digital Innovation (RCODI). 
+[**Dr. Sabine Brunswicker**](https://rcodi.org/people/sabine-brunswicker/) is an internationally recognized innovation scholar and computational social scientist, bridging the fields of social sciences and information science & technlogy. She is a Professor for Digital Innovation, and the Founder and Director of the Research Center for Open Digital Innovation (RCODI). 
 
 In her research on digital innovation, she is particularly focused on the role of digital platforms as a means to leverage distributed machine and human intelligence when solving complex problems at scale. Examples of digital innovation she studies are Open source software (OSS) communities, crowdsourcing, citizen science, blockchains, and digital manufacturing. In her work, she designs and examines the social and technical ‘features’ of digital platforms with a focus on economic, social, and ecological outcomes. Further, she uses computational techniques (e.g. agent-based modeling, network analysis) and field experiments to advance theories and models of complex socio-technical interactions. Her work has been funded by NSF, NIH, the European Commission (EC), and industry and philanthropic donors.
 
@@ -118,7 +118,7 @@ The Research Center for Open Digital Innovation (RCODI) strives to engage in a r
 
 ### **Contact Information**
 
-**[Dr. Sabine Brunswicker](https://rcodi.org/people/sabine-brunswicker/)**   
+[**Dr. Sabine Brunswicker**](https://rcodi.org/people/sabine-brunswicker/)  
 - Founding Director of RCODI
 - Professor of Digital Innovation in PPI and Com
 - Email: sbrunswi@purdue.edu
