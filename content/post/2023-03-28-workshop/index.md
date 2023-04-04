@@ -37,9 +37,9 @@ There are a range of benefits from participating in this workshop:
 1. You have the opportunity to learn about, form and become part of the new field of computational liberal arts (CLA) and the emerging field of computational social sciences (CSS)
 2. You get direct insights how the RCODI team has used [**IronHacks**](https://www.ironhacks.com) in their prior research on digital innovation, crowds, and collective intelligence and data science learning/programming
 3. You can discuss how you could use [**IronHacks**](https://www.ironhacks.com) to answer a research question of interest to you in your specific field of liberal arts and social science. Specifically, you will: 
-  1. See a demo of the [**IronHacks**](https://www.ironhacks.com) platform and how to use it as a researcher.
-  2. Understand what trace data you could collect and what methods could be used to analyze such data.
-  3. Listen to the experiences of a recent participant in an [**IronHacks**](https://www.ironhacks.com) "challenge" - the so-called hack, and learn about the practical experiences of those engaging in data science work on [**IronHacks**](https://www.ironhacks.com).
+    1. See a demo of the [**IronHacks**](https://www.ironhacks.com) platform and how to use it as a researcher.
+    2. Understand what trace data you could collect and what methods could be used to analyze such data.
+    3. Listen to the experiences of a recent participant in an [**IronHacks**](https://www.ironhacks.com) "challenge" - the so-called hack, and learn about the practical experiences of those engaging in data science work on [**IronHacks**](https://www.ironhacks.com).
 4. Understand why [**IronHacks**](https://www.ironhacks.com) offers greater potential for "realistic" research on human behavior in the age of code, data, and AI compared to platforms like Kaggle,Topcoder, Mturk, Volunteer Sciences, O-tree, Apple appstore, Qualtrics, etc. 
 5. Understand how you could integrate [**IronHacks**](https://www.ironhacks.com) in your own teaching.
 6. Develop ties to other researchers and the RCODI team to form a working group at Purdue, in which you can brainstorm, design, and implement research projects using [**IronHacks**](https://www.ironhacks.com), work with RCODI on grant application, and develop a strategy to advance the platform and its community to serve the needs of computational liberal arts (CLA) and also computational social science more broadly. 
