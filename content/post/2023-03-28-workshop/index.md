@@ -121,20 +121,19 @@ The Research Center for Open Digital Innovation (RCODI) strives to engage in a r
 
 ### **Contact Information**
 
-**Dr. Sabine Brunswicker**:Founding Director of RCODI, Professor of Digital Innovation in PPI and Com
-[Profile](https://rcodi.org/people/sabine-brunswicker/) | Email: sbrunswi@purdue.edu
+**Dr. Sabine Brunswicker**:Founding Director of RCODI, Professor of Digital Innovation in PPI and Com <br> [**Profile**](https://rcodi.org/people/sabine-brunswicker/) | Email: sbrunswi@purdue.edu
 
-**Dr. Howard E Sypher**: Professor in COM
+**Dr. Howard E Sypher**: Professor in COM <br>
 Email: hsypher@purdue.edu
 
-**Dr. Sorin Matei**: CLA Associate Dean of Research
+**Dr. Sorin Matei**: CLA Associate Dean of Research <br>
 Email: smatei@purdue.edu
 
-**Jia Lin Cheoh**: RCODI Fellow, Ph.D Student
-[Profile](https://rcodi-blog.netlify.app/people/jia-lin-cheoh/) | Email: jcheoh@purdue.edu
+**Jia Lin Cheoh**: RCODI Fellow, Ph.D Student <br>
+[**Profile**](https://rcodi-blog.netlify.app/people/jia-lin-cheoh/) | Email: jcheoh@purdue.edu
 
-**Research Center of Open Digital Innovation**
-Email: researchopendigitalinnovation@gmail.com <br>
+[**Research Center of Open Digital Innovation** <br>](https://rcodi.org/)
+Email: researchopendigitalinnovation@gmail.com
 
 ## **Citations**
 
