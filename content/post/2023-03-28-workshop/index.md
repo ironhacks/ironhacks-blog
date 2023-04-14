@@ -24,7 +24,8 @@ We are excited to invite faculty and graduate students in liberal arts and socia
 - Date: Friday, April 21st, 2023. 
 - Time: 11 AM - 4 PM.
 - Room: BRNG (Beering Hall) B222.
-- RSVP is required. 
+- RSVP is required, before April 17th, 2023. (Monday)
+- Free lunch is provided! If you're coming to our workshop, please fill out this [Lunch Survey Option](https://purdue.ca1.qualtrics.com/jfe/form/SV_ahgydDKk2ezvHro), so we can accommodate.
 
 ## **What is the workshop about?**
 During the workshop, participants will learn how they can use IronHacks to perform computational research in the liberal arts (CLA) and social sciences (CSS) to develop advance and develop new theories using large-scale online experiments and analyzing trace data with computational methods. [**IronHacks**](https://www.ironhacks.com) is a platform for researchers in CLA and CSS to study how technically interested and savvy humans (programmers, data scientists, app developers, etc.) engage in data and code-related work and problem-solving to solve data-related challenges (e.g. developing a data science algorithm for forecasting unemployment, developing a data visualization to be shown on a website, designing a web app, etc.). 
