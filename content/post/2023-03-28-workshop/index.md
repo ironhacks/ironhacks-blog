@@ -73,9 +73,9 @@ Examples of potential research topics are:
 | Time (EST) | Description | Speaker/Contributor |
 | ----------- | ----------- | ----------- |
 | 11:00 AM | Opening Remarks | Dr. Sorin Matei | 
-| 11:05 AM | Introduction to IronHacks Platform, and its features for research on computational liberal arts and examples of prior experiments performed with IronHacks | Dr. Sabine Brunswicker |
+| 11:05 AM | Introduction to IronHacks Platform, and its features for research on computational liberal arts and examples of prior experiments performed with IronHacks | Dr. Sabine Brunswicker & Jia Lin Cheoh |
 | 12:00 PM  |  Live Demo of IronHacks Platform (following along encouraged), during working lunch  | Dr. Sabine Brunswicker |
-| 1:00 PM | IronHacks Fall 2022 and Insights from Participant (Data Scientist) | Dr. Sabine Brunswicker |
+| 1:00 PM | IronHacks Fall 2022 and Insights from Participant (Data Scientist) | Dr. Sabine Brunswicker & (Lionel / Mick)|
 | 1:20 PM | Open Discussion & QA & Brainstorming on Collaboration Opportunities | Dr. Sabine Brunswicker |
 | 2:30 PM | Information Networking over Coffee & Snacks| Dr. Sabine Brunswicker  |
 | 4:00 PM | End of Workshop | Dr. Sabine Brunswicker <br> Dr. Sorin Matei|
